@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>A1B Lighting Schedule</title>
+<meta name="theme-color" content="#0a0a0e">
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="apple-touch-icon" href="./icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<div id="update-banner">
+  New schedule available — tap to update
+  <div class="sub">A newer version has been deployed</div>
+</div>
+
+<header class="app-header">
+  <h1>A1B Lighting</h1>
+  <div class="meta-line" id="meta-line"><span class="dot"></span> Loading…</div>
+</header>
+
+<main>
+  <div class="view active" id="view-now">
+    <div id="now-root"></div>
+  </div>
+
+  <div class="view" id="view-schedule">
+    <div class="day-chips" id="day-chips"></div>
+    <div id="schedule-root"></div>
+  </div>
+</main>
+
+<nav class="tabbar">
+  <button data-tab="now" class="active">Now</button>
+  <button data-tab="schedule">Schedule</button>
+</nav>
+
+<div id="info-modal">
+  <div class="sheet">
+    <h3>Schedule info</h3>
+    <div class="row"><b>Updated:</b> <span id="info-updated"></span></div>
+    <div class="row"><b>Version:</b> <span id="info-version"></span></div>
+    <div class="row"><b>Source file:</b> <span id="info-source"></span></div>
+    <div class="row"><b>Rebuilt:</b> <span id="info-generated"></span></div>
+    <div class="row"><b>Matched on:</b> <span id="info-tokens"></span></div>
+    <div class="row"><b>Notes:</b> <span id="info-notes"></span></div>
+    <button class="close">Close</button>
+  </div>
+</div>
+
+<script src="./shared.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>

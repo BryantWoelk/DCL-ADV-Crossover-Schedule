@@ -1,0 +1,1533 @@
+{
+ "meta": {
+  "updated": "August 18, 2026",
+  "version": "3",
+  "source_file": "A1B Handover Schedule V4.xlsx",
+  "generated_at": "2026-09-06T18:25:03.618514Z",
+  "name_match": "Bryant",
+  "dept_tokens": [
+   "show lighting",
+   "zactrack",
+   "stumble",
+   "dress"
+  ],
+  "notes": "Excludes 12 stale v1 (Jul 22) duplicate tabs for Sep 19-30; uses \"Fri 9.18 - STA 1 NEW\" over the superseded original; Thu 9/24 tab date corrected from an internal typo (read 2026-09-17) to 2026-09-24 based on tab name/sequence."
+ },
+ "days": [
+  {
+   "date": "2026-09-10",
+   "sheet": "(R) Thu 9.10 EMBARK - STA",
+   "span_start": "2026-09-10T13:15:00",
+   "span_end": "2026-09-10T14:45:00",
+   "calls": [
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|22",
+     "time_raw": "13:15 - 14:45",
+     "start": "2026-09-10T13:15:00",
+     "end": "2026-09-10T14:45:00",
+     "time_ok": true,
+     "activity": "WDT Stage Safety Awareness (SSA):\nTech Intro (10 mins)\nSFX (Low Fog, Smoke, Hazer, Confetti, Petal Pushers) Talk (5 mins)\nZacTrack Talk  (5 mins)\nMic Talk (5 mins)\nPyro Talk (5 mins)\nCostume Talk (5 mins)\nProps Talk (5 mins)\nLift/Stg Orientation - 2 groups (40 mins)\nBREAK (10 mins)",
+     "location": "WDT",
+     "staff": [
+      "SR WDT",
+      "SR WDT Costume",
+      "WDT Techs",
+      "Monica (SM)",
+      "Joey (if onboard)"
+     ],
+     "cast": [
+      "A1B All Replacement"
+     ],
+     "notes": "Sr WDT Tech to lead (conduct lift / stage orientation in 2 groups - including a backstage tour - showing how to get to trap room)",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "12:30 - 13:15",
+     "label": "Lunch &\nDrop off Luggage in Staterooms\n(if available - please see remarks)",
+     "start": "2026-09-10T12:30:00",
+     "end": "2026-09-10T13:15:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-10T16:30:00",
+     "end": "2026-09-10T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "sheet": "(R) Fri 9.11 - Movie",
+   "span_start": null,
+   "span_end": null,
+   "calls": [],
+   "meals": [
+    {
+     "time_raw": "13:00 - 14:00",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-11T13:00:00",
+     "end": "2026-09-11T14:00:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-11T16:30:00",
+     "end": "2026-09-11T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-12",
+   "sheet": "(R) Sat 9.12 - REM",
+   "span_start": "2026-09-12T15:30:00",
+   "span_end": "2026-09-12T16:30:00",
+   "calls": [
+    {
+     "id": "(R) Sat 9.12 - REM|35",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-12T15:30:00",
+     "end": "2026-09-12T16:30:00",
+     "time_ok": true,
+     "activity": "Scene 3: Be Our Guest\n- From \"Eve... FAV-orites. (Giggles)\" to Button",
+     "location": "WDT",
+     "staff": [
+      "Joey",
+      "Monica (SM to call automations?)",
+      "Marlee B to assist if available (Dish Assist) (Availability confirmed by CPM1?)"
+     ],
+     "cast": [
+      "Sydney (Dish)",
+      "Michael O & Samuel (Waiter)"
+     ],
+     "notes": "Tech as needed, All preset as show prior to - \nPreset Auto 11, S/B Auto 12 - 19, BOG Legs\nMod: up at start\nMain: up at start\nWagon: No\nAudio: Timecode (01:12:23)\nVideo Wall: ON with timecode shown\nProps (Others): All in Scene 3 Be Our Guest - BOG menu x 3, closhes x 2, Trolley x 3 (NO flambe), Cadelabra x 3, Napkin x 4, Table Dress x 2, Table, Table Cloth\nCostume Props: Plate Backpack x 2",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "12:00 - 12:45",
+     "label": "LUNCH (WDT TECH)",
+     "start": "2026-09-12T12:00:00",
+     "end": "2026-09-12T12:45:00"
+    },
+    {
+     "time_raw": "12:30 - 13:30",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-12T12:30:00",
+     "end": "2026-09-12T13:30:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-12T16:30:00",
+     "end": "2026-09-12T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-13",
+   "sheet": "(R) Sun 9.13 - REM",
+   "span_start": "2026-09-13T11:00:00",
+   "span_end": "2026-09-13T11:30:00",
+   "calls": [
+    {
+     "id": "(R) Sun 9.13 - REM|22",
+     "time_raw": "11:00 - 11:30",
+     "start": "2026-09-13T11:00:00",
+     "end": "2026-09-13T11:30:00",
+     "time_ok": true,
+     "activity": "Scene 11: Fantasy - Princess Transformation (25 mins)\n- From \"Decreasing\" to End of Dress Transformation\n- Watch Columns Moves before Staging\n\nWagon - NO\nSide Trucks - NO\nColumns - YES",
+     "location": "WDT",
+     "staff": [
+      "Joey",
+      "Monica (SM to call automations?)"
+     ],
+     "cast": [
+      "Sydney (Aurora)",
+      "(out of costume)"
+     ],
+     "notes": "Techs as needed, All below preset prior to - \nPreset Auto 50, S/B Auto 51 - 58\nWagon: Green Home (Auto 49)\nAudio: Timecode (2:20:15) \"Decreasing\"\nSet: Columns",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "11:30 - 12:30",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-13T11:30:00",
+     "end": "2026-09-13T12:30:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-13T16:30:00",
+     "end": "2026-09-13T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "sheet": "(R) Mon 9.14 - STA",
+   "span_start": null,
+   "span_end": null,
+   "calls": [],
+   "meals": [
+    {
+     "time_raw": "13:15 - 14:15",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-14T13:15:00",
+     "end": "2026-09-14T14:15:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-14T16:30:00",
+     "end": "2026-09-14T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "sheet": "(R) Tue 9.15 - REM",
+   "span_start": null,
+   "span_end": null,
+   "calls": [],
+   "meals": [
+    {
+     "time_raw": "12:00 - 13:00",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-15T12:00:00",
+     "end": "2026-09-15T13:00:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-15T16:30:00",
+     "end": "2026-09-15T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "sheet": "(R) Wed 9.16 - REM",
+   "span_start": null,
+   "span_end": null,
+   "calls": [],
+   "meals": [
+    {
+     "time_raw": "12:00 - 12:45",
+     "label": "LUNCH  (WDT TECH)",
+     "start": "2026-09-16T12:00:00",
+     "end": "2026-09-16T12:45:00"
+    },
+    {
+     "time_raw": "12:45 - 13:45",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-16T12:45:00",
+     "end": "2026-09-16T13:45:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-16T16:30:00",
+     "end": "2026-09-16T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "sheet": "Thu 9.17 EMBARK ",
+   "span_start": "2026-09-17T13:15:00",
+   "span_end": "2026-09-18T00:30:00",
+   "calls": [
+    {
+     "id": "Thu 9.17 EMBARK |27",
+     "time_raw": "13:15 - 14:45",
+     "start": "2026-09-17T13:15:00",
+     "end": "2026-09-17T14:45:00",
+     "time_ok": true,
+     "activity": "WDT Stage Safety Awareness (SSA):\nTech Intro (10 mins)\nSFX (Low Fog, Smoke, Hazer, Confetti, Petal Pushers) Talk (5 mins)\nZacTrack Talk  (5 mins)\nMic Talk (5 mins)\nPyro Talk (5 mins)\nCostume Talk (5 mins)\nProps Talk (5 mins)\nLift/Stg Orientation - 2 groups (40 mins)\nBREAK (10 mins)",
+     "location": "WDT",
+     "staff": [
+      "SR WDT",
+      "SR WDT Costume",
+      "WDT Techs",
+      "Monica (SM)"
+     ],
+     "cast": [
+      "A1B Full Cast (except replacement)"
+     ],
+     "notes": "Sr WDT Tech to lead (conduct lift / stage orientation in 2 groups - including a backstage tour - showing how to get to trap room)",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |58",
+     "time_raw": "23:00 - 00:30",
+     "start": "2026-09-17T23:00:00",
+     "end": "2026-09-18T00:30:00",
+     "time_ok": true,
+     "activity": "Duffy and the Friendship\nBlock in Costume & Dress Run\n(break as needed)\n\nBlocking (20 mins)\nBREAK / Pop Head (10 mins)\nBlocking (20 mins)\nBreak / Pop Head (10 mins)\nRun #1 (Jason IN) (30 mins)",
+     "location": "WDT",
+     "staff": [
+      "Sara",
+      "Anthony",
+      "Katelyn",
+      "Kevin",
+      "Liam",
+      "Evan",
+      "SM (TBD) to call",
+      "A2 CAC & CLC (TBD names) to assist?"
+     ],
+     "cast": [
+      "Full Duffy Cast & u/s's",
+      "Jason IN for Tippy Blue",
+      "Logan NA - Avengers"
+     ],
+     "notes": "Tech as needed, All below preset as per show prior to \n- Full tech Props / Scenic / Audio / Video\n- Tippy Blue Barrel + Seat + Puppet\n- All props (Gelatoni Paintbrush, Gelatoni Pallet, Spyglass, Magnifying Glass, Ocarina, Bowl + Spoon, Flag, Braclet, Buckets, Saw, Hammer, Paintbrushes) preset, Boat + STA Wheel\n- God Mic x 2, Speaker",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "12:30 - 13:15",
+     "label": "Lunch &\nDrop off Luggage in Staterooms\n(if available - please see remarks)",
+     "start": "2026-09-17T12:30:00",
+     "end": "2026-09-17T13:15:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-17T16:30:00",
+     "end": "2026-09-17T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "sheet": "Fri 9.18 - STA 1 NEW",
+   "span_start": "2026-09-18T08:30:00",
+   "span_end": "2026-09-19T01:00:00",
+   "calls": [
+    {
+     "id": "Fri 9.18 - STA 1 NEW|22",
+     "time_raw": "8:30 - 10:00",
+     "start": "2026-09-18T08:30:00",
+     "end": "2026-09-18T10:00:00",
+     "time_ok": true,
+     "activity": "Eve Puppet Work\n- Vest Adjustment\n- Puppet Refresh\n\nNo Tech Support?\n(Tech to setup prior to)",
+     "location": "WDT House",
+     "staff": [
+      "Kevin"
+     ],
+     "cast": [
+      "Eve & u/s's",
+      "(P2",
+      "Ellen",
+      "Thomas",
+      "Michael)"
+     ],
+     "notes": "Tech as needed\nAll below preset prior to - \nEve (on Stand in SL, No ZacTrack & Battery), Gimbal Vest, Gloves",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|43",
+     "time_raw": "12:00 - 12:30",
+     "start": "2026-09-18T12:00:00",
+     "end": "2026-09-18T12:30:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo Dress Rehearsal",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "Jeremy",
+      "Samm",
+      "Ralph",
+      "Justin"
+     ],
+     "notes": "Canyon, Show Control, Costuming Techs as needed\n\nFULL SHOW CONDITIONS - AUDIO, LX, HAZE, VIDEO",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|90",
+     "time_raw": "00:00 - 00:30",
+     "start": "2026-09-19T00:00:00",
+     "end": "2026-09-19T00:30:00",
+     "time_ok": true,
+     "activity": "Navigator's Club Dress Rehearsal - Group A",
+     "location": "Navigator's Club",
+     "staff": [
+      "Wayne",
+      "Liam",
+      "Evan",
+      "Katelyn",
+      "Anthony?"
+     ],
+     "cast": [],
+     "notes": "Shipwide Techs as needed - Full Show Conditions (Audio, LX,Props) God Mic, Mapkins, Shipwheels, Greeters as needed, Shipwide tech to run show\n\nA2 Captains Confirmed by CPM1/CHM1??",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|93",
+     "time_raw": "00:30 - 01:00",
+     "start": "2026-09-19T00:30:00",
+     "end": "2026-09-19T01:00:00",
+     "time_ok": true,
+     "activity": "Navigator's Club Dress Rehearsal - Group B",
+     "location": "Navigator's Club",
+     "staff": [
+      "Wayne",
+      "Liam",
+      "Evan",
+      "Katelyn",
+      "Anthony?"
+     ],
+     "cast": [],
+     "notes": "Shipwide Techs as needed - Full Show Conditions (Audio, LX,Props) God Mic, Mapkins, Shipwheels, Greeters as needed, Shipwide tech to run show\n\nA2 Captains Confirmed by CPM1/CHM1??",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "13:45 - 14:45",
+     "label": "LUNCH (WDT)",
+     "start": "2026-09-18T13:45:00",
+     "end": "2026-09-18T14:45:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-18T16:30:00",
+     "end": "2026-09-18T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-19",
+   "sheet": "Sat 9.19 - REM 1",
+   "span_start": "2026-09-19T06:30:00",
+   "span_end": "2026-09-20T01:30:00",
+   "calls": [
+    {
+     "id": "Sat 9.19 - REM 1|15",
+     "time_raw": "6:30 - 7:15",
+     "start": "2026-09-19T06:30:00",
+     "end": "2026-09-19T07:15:00",
+     "time_ok": true,
+     "activity": "OUAT Cinderella Quick Block and Dress Rehearsal",
+     "location": "Fairytale Hall",
+     "staff": [
+      "Dorothy",
+      "Sara",
+      "Julia"
+     ],
+     "cast": [
+      "Maddy",
+      "Ent Host"
+     ],
+     "notes": "Shipwide tech to run program, props preset\nENT Host Confirmed by CPM2?",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|19",
+     "time_raw": "7:15 - 8:00",
+     "start": "2026-09-19T07:15:00",
+     "end": "2026-09-19T08:00:00",
+     "time_ok": true,
+     "activity": "OUAT Tiana Quick Block and Dress Rehearsal",
+     "location": "Fairytale Hall",
+     "staff": [
+      "Dorothy",
+      "Sara",
+      "Julia"
+     ],
+     "cast": [
+      "Crystal",
+      "Ent Host"
+     ],
+     "notes": "Shipwide tech to run program, props preset\nENT Host Confirmed by CPM2?",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|22",
+     "time_raw": "8:00 - 9:00",
+     "start": "2026-09-19T08:00:00",
+     "end": "2026-09-19T09:00:00",
+     "time_ok": true,
+     "activity": "OUAT Belle Block and Dress Rehearsal",
+     "location": "Fairytale Hall",
+     "staff": [
+      "Dorothy",
+      "Sara",
+      "Julia"
+     ],
+     "cast": [
+      "Bailey",
+      "Ent Host"
+     ],
+     "notes": "Shipwide tech to run program, props preset\nENT Host Confirmed by CPM2?",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|31",
+     "time_raw": "10:00 - 11:00",
+     "start": "2026-09-19T10:00:00",
+     "end": "2026-09-19T11:00:00",
+     "time_ok": true,
+     "activity": "AvengerCon Block and Dress Rehearsal",
+     "location": "WDT Dressing Room",
+     "staff": [
+      "N/A"
+     ],
+     "cast": [
+      "Mija",
+      "Ent Host"
+     ],
+     "notes": "Shipwide tech to run program, props preset\nENT Host/Venue Confirmed by CPM1/2?",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|33",
+     "time_raw": "10:30 - 11:15",
+     "start": "2026-09-19T10:30:00",
+     "end": "2026-09-19T11:15:00",
+     "time_ok": true,
+     "activity": "Scene 2: Eve Returns / Wall-E Truck Interior (45 mins)\n- From \"Come in Mission Control,\" to \"Ma Chere Mademoiselle\" \n- Fog Curtain Demo (15 mins)\n\nWagon Move - YES\nTrucks - YES",
+     "location": "",
+     "staff": [
+      "Dorothy",
+      "Kevin",
+      "Mikaela (pyro)"
+     ],
+     "cast": [
+      "Wall-E",
+      "Eve",
+      "Lumiere",
+      "Belle & u/s's",
+      "(Michael in if possible)"
+     ],
+     "notes": "Tech as needed, All preset as show prior to - \nShow Control (for Fog Curtain)\nPreset Auto 6, S/B Auto 7\nWall-E - Full Battery, Head ON, No ZacTrack\nEve - Full Battery, Gimbal Vest, Gloves, No ZacTrack\nWagon - Auto 3 position - green home, Ramp IN/OUT TBD\nAudio: Timecode (01:10:34)\nVideo Wall - ON with timecode shown\nProps: Foamboard Eve",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|55",
+     "time_raw": "15:45 - 16:30",
+     "start": "2026-09-19T15:45:00",
+     "end": "2026-09-19T16:30:00",
+     "time_ok": true,
+     "activity": "Ariel & u/s Flying (45 mins)\n*WITH Fin & Mermaid Dress\n*Primary IN first, then Understudy\n*All Flight w/ Music (if performer is comfortable\n\n(1) Primary - Open Stage\n(2) Primary - Wall-E/Wagon/Main\n(3) U/S - Open Stage\n(4) U/S - Wall-E/Wagon/Main",
+     "location": "WDT",
+     "staff": [
+      "Dorothy",
+      "Kevin",
+      "IES",
+      "Decker (stunts)"
+     ],
+     "cast": [
+      "Wall-E",
+      "Ariel & u/s",
+      "At 16:10",
+      "ADD (last 20 mins):",
+      "Fish Stick & u/s's to observe and spacing"
+     ],
+     "notes": "Techs as needed, All below preset prior to - \nPreset Auto 41 onstage, S/B Auto 42 (performer lines to hook up)\nStage: Wagon (set on main), Ariel's seat\nAudio: Timecode (1:52:12) \"up where they walk\"\nProps: Ariel Props (Fork, Crown, Trumpet), Wall-E Props (Crate, Spoon, Plunge, Top Hat), Fish Sticks x 4\nWall-E - Full Battery, Head ON, No ZacTrack\nWardrobe: Harness, Ariel underlay, Fin",
+     "match_reasons": [
+      "dept:zactrack",
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|73",
+     "time_raw": "22:00 - 23:30",
+     "start": "2026-09-19T22:00:00",
+     "end": "2026-09-19T23:30:00",
+     "time_ok": true,
+     "activity": "Scene 6: Storm Warning\nWagon Pyro Sign-off Stage 2\nWagon Move - YES\nSide Trucks - NO\nPyro - YES\n\n*Individual Shot\n*Sequence Shot\n\n*Tech to fetch pyro prior to (20 mins)\n*Tech to load pyro prior to (15 mins)",
+     "location": "WDT",
+     "staff": [
+      "Dorothy",
+      "Mikaela"
+     ],
+     "cast": [
+      "Wall-E",
+      "Eve & u/s's",
+      "(Jason",
+      "Lucy",
+      "P2",
+      "Ellen)",
+      "CLOSED TOED SHOES"
+     ],
+     "notes": "Tech as needed, All preset as show prior to - \nPreset Auto 26, S/B Auto 27\nWagon Position (1) Yellow Vertical (Door DS) 160\nWagon Position (2) Yellow Vertical (Door US) 170\nWagon Postion (3) Pink Diagonal DSR 180\nAudio: Timecode (1:40:20)\nWall-E - Full Battery, Head ON, No ZacTrack\nEve - Full Battery, Gimbal Vest, Gloves, No ZacTrack",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|79",
+     "time_raw": "00:30 - 01:30",
+     "start": "2026-09-20T00:30:00",
+     "end": "2026-09-20T01:30:00",
+     "time_ok": true,
+     "activity": "Hollywood Spotlight Club Dress Rehearsal",
+     "location": "HSC",
+     "staff": [
+      "Evan",
+      "Wayne",
+      "DS",
+      "CHM1",
+      "Liam"
+     ],
+     "cast": [
+      "Alaina",
+      "Julian",
+      "Ruby",
+      "-M&G Cast for VIPs",
+      "Erica",
+      "Teah to observe"
+     ],
+     "notes": "Shipwide techs as needed, shipwide tech to run show \n\n- CHM1 to confirm M&G cast?",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "12:00 - 12:45",
+     "label": "LUNCH (WDT TECH)",
+     "start": "2026-09-19T12:00:00",
+     "end": "2026-09-19T12:45:00"
+    },
+    {
+     "time_raw": "12:45 - 13:45",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-19T12:45:00",
+     "end": "2026-09-19T13:45:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-19T16:30:00",
+     "end": "2026-09-19T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "sheet": "Sun 9.20 - REM 2",
+   "span_start": "2026-09-20T07:30:00",
+   "span_end": "2026-09-21T00:45:00",
+   "calls": [
+    {
+     "id": "Sun 9.20 - REM 2|16",
+     "time_raw": "7:30 - 8:30",
+     "start": "2026-09-20T07:30:00",
+     "end": "2026-09-20T08:30:00",
+     "time_ok": true,
+     "activity": "Scene 9A: Part of Your World\nFriend Like Me Playoff to Top of Under The Sea (Sebastian Scene)\n\n\nPart A (Wall-E, Eve, Sebastian, Ariel) (15 mins)\n- From \"Battery charge increasing\" (No Sebastian & Eve) to End of Song (wagon off)\n- Ariel 1st flight (with Fish Stick observing in the house)\n\nPart B (Block Fish Stick w/ Ariel) (30 mins)\n- From \"What would I give if I could live\" to Fish Sticks exit\n- Break for Ariel from flight\n- Wagon stays on main (green home) and down for a tad\n\nPart C (All in Scenes) (15 mins)\n- From \"Battery charge increasing) to End of Song (wagon off / \"Life Under The Sea is Better\")\n- Ariel 2nd flight\n\nWagon - YES (w/ Wagon Tech)\nSide Trucks - NO",
+     "location": "WDT",
+     "staff": [
+      "Dorothy",
+      "Kevin",
+      "A1 Captain (Michael)",
+      "A1 cast availability confirmed by CPM1"
+     ],
+     "cast": [
+      "Wall-E",
+      "Sebastian",
+      "Ariel",
+      "Fish Stick 1 - 4 & u/s's"
+     ],
+     "notes": "Techs as needed, All below preset prior to - \nPreset Auto 37, S/B Auto 38 - 44\nAustrian: in at start with Wall-E Swag (Auto 35)\nStage: Wagon (set on main), Ariel's seat\nAudio: Timecode (1:50:20) Top of \"Battery charge increasing. Increasing...\"\nSet: Mermaid Header\nProps: Ariel Props (Fork, Crown, Trumpet), Wall-E Props (Crate, Spoon, Plunge, Top Hat), Fish Sticks x 4\nWall-E - Full Battery, Head ON, No ZacTrack\nEve - Full Battery, Gimbal Vest, Gloves, No ZacTrack\nWardrobe: Harness, Ariel underlay, Fin",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|20",
+     "time_raw": "8:00 - 8:30",
+     "start": "2026-09-20T08:00:00",
+     "end": "2026-09-20T08:30:00",
+     "time_ok": true,
+     "activity": "Techs set for Color Spin Rehearsals",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs as needed, Preset for Color Spin Block and Dress Rehearsal",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|32",
+     "time_raw": "8:45 - 9:15",
+     "start": "2026-09-20T08:45:00",
+     "end": "2026-09-20T09:15:00",
+     "time_ok": true,
+     "activity": "Scene 7: Friend Like Me\nScenework (30 mins)\n- From Remote Click to Aladdin & Genie Entrance / Fake Out\n\nWagon - YES\nSide Trucks - YES (optional)",
+     "location": "WDT",
+     "staff": [
+      "Dorothy",
+      "Kevin",
+      "Joey"
+     ],
+     "cast": [
+      "Wall-E",
+      "Eve",
+      "Aladdin",
+      "Genie & u/s's",
+      "Ellen NA (in Color Spin)"
+     ],
+     "notes": "No WDT Tech Support (off for lunch)\nTech as needed, All preset as show prior to - \nPreset Auto 32, S/B Auto 33, No Kabuki Bag Drop\nWagon: Position at Auto 23 (Green Home)\nSide Trucks: ON at start\nAudio: Timecode (1:32:26), ASYNC\nVideo Wall - ON with timecode shown\nProps: Remote\nWall-E - Full Battery, Head ON, No ZacTrack\nEve - Full Battery, Gimbal Vest, Gloves, No ZacTrack",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|28",
+     "time_raw": "10:15 - 10:30",
+     "start": "2026-09-20T10:15:00",
+     "end": "2026-09-20T10:30:00",
+     "time_ok": true,
+     "activity": "Color Spin Dress Rehearsal",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "Full Color Spin Cast and u/s + 2x Ent Hosts",
+      "Samuel",
+      "Chelsea NA"
+     ],
+     "notes": "Canyon, Show Control, Costuming Techs as needed\n\nFULL SHOW CONDITIONS - AUDIO, LX, HAZE, VIDEO",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|45",
+     "time_raw": "13:15 - 14:15",
+     "start": "2026-09-20T13:15:00",
+     "end": "2026-09-20T14:15:00",
+     "time_ok": true,
+     "activity": "Scene 11: Fantasy - Princess Transformation\n- From \"Decreasing\" to End of Dress Transformation\n- Watch Columns Moves before Staging\n\nWagon - YES\nSide Trucks - YES\n\n(No Costume)",
+     "location": "WDT",
+     "staff": [
+      "Dorothy"
+     ],
+     "cast": [
+      "Wall-E",
+      "Eve",
+      "Cinderella",
+      "Snow White",
+      "Aurora & u/s's"
+     ],
+     "notes": "Techs as needed, All below preset prior to - \nPreset Auto 50, S/B Auto 51 - 58\nWagon: Green Home (Auto 49)\nAudio: Timecode (2:20:15) \"Decreasing\"\nSet: Columns\nWardrobe: Transformation Dresses (primary)",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|50",
+     "time_raw": "15:00 - 15:30",
+     "start": "2026-09-20T15:00:00",
+     "end": "2026-09-20T15:30:00",
+     "time_ok": true,
+     "activity": "Moana COTS Dress Rehearsal",
+     "location": "Wayfinder Bay",
+     "staff": [
+      "Evan",
+      "Wayne",
+      "Liam",
+      "Katelyn"
+     ],
+     "cast": [
+      "Moana COTS Cast and u/s"
+     ],
+     "notes": "Shipwide, Show Control, Costuming Techs as needed, All show props set, Nets removed \n\nFULL SHOW CONDITIONS - AUDIO, LX, VIDEO NEEDED \n\n-Onboard SM to call dress rehearsal\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|71",
+     "time_raw": "00:00 - 00:45",
+     "start": "2026-09-21T00:00:00",
+     "end": "2026-09-21T00:45:00",
+     "time_ok": true,
+     "activity": "RSFT Dress Rehearsal\n\n-Cinderella, Belle, Tiana",
+     "location": "HSC",
+     "staff": [
+      "Evan",
+      "Wayne",
+      "DS",
+      "CHM1",
+      "Liam",
+      "Sara",
+      "Julia"
+     ],
+     "cast": [
+      "Teah",
+      "Ralph",
+      "Joe",
+      "Elana",
+      "Maddy",
+      "Bailey",
+      "Crystal",
+      "-Alaina",
+      "Damian",
+      "Daniel",
+      "Gabby to observe"
+     ],
+     "notes": "Shipwide techs as needed, shipwide tech to run show \n\n- CPM1/CHM1 to confirm Captains",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "12:15 - 13:15",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-20T12:15:00",
+     "end": "2026-09-20T13:15:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-20T16:30:00",
+     "end": "2026-09-20T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "sheet": "Mon 9.21 - STA 2",
+   "span_start": "2026-09-21T09:45:00",
+   "span_end": "2026-09-21T18:00:00",
+   "calls": [
+    {
+     "id": "Mon 9.21 - STA 2|20",
+     "time_raw": "9:45 - 10:15",
+     "start": "2026-09-21T09:45:00",
+     "end": "2026-09-21T10:15:00",
+     "time_ok": true,
+     "activity": "Techs set for Set Sail rehearsal",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs as needed, Preset for Set Sail block and Dress Rehearsal",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|28",
+     "time_raw": "10:15 - 11:00",
+     "start": "2026-09-21T10:15:00",
+     "end": "2026-09-21T11:00:00",
+     "time_ok": true,
+     "activity": "Auto Check & Set for Top of Show (including sweep & mop)",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs as needed, Pyro test during this time - not for stumble, but for demo immediately after",
+     "match_reasons": [
+      "dept:stumble"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|29",
+     "time_raw": "10:15 - 10:30",
+     "start": "2026-09-21T10:15:00",
+     "end": "2026-09-21T10:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure Stumble Talk Through",
+     "location": "WDT House",
+     "staff": [
+      "Creative Team",
+      "Monica (SM)",
+      "Jan"
+     ],
+     "cast": [
+      "FULL Seas the Adventure Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "dept:stumble"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|30",
+     "time_raw": "10:30 - 10:45",
+     "start": "2026-09-21T10:30:00",
+     "end": "2026-09-21T10:45:00",
+     "time_ok": true,
+     "activity": "Tech Talk: ZacTrack, Mic\n*Release characters and all without mic after ZacTrack",
+     "location": "WDT House",
+     "staff": [
+      "SR WDT",
+      "Show Control",
+      "SR Cost"
+     ],
+     "cast": [
+      "FULL Seas the Adventure Cast"
+     ],
+     "notes": "Show Control",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|31",
+     "time_raw": "10:45 - 11:15",
+     "start": "2026-09-21T10:45:00",
+     "end": "2026-09-21T11:15:00",
+     "time_ok": true,
+     "activity": "\"Half Hour\" into mics, ZacTracks, Vocal Warmup, Full Costumes (sculpted characters & flight only), Show Shoes, Wig & Makeup, Check Presets, Mic Check 15 mins Before Show at 11:30",
+     "location": "WDT",
+     "staff": [
+      "Monica (SM) to announce Call Times"
+     ],
+     "cast": [
+      "Seas the Adventure Cast"
+     ],
+     "notes": "Techs as needed, Wardrobe, Audio (mics & ZacTrack belts & packs ready at the top of this hour), Props Tech to assist with Crush/Turtle adjustments as needed\n\nWith shows shoes (if have), With wigs (if have)\nNo Costume (except for Characters & Rapunzel Flight)",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|23",
+     "time_raw": "11:15 - 11:45",
+     "start": "2026-09-21T11:15:00",
+     "end": "2026-09-21T11:45:00",
+     "time_ok": true,
+     "activity": "Set Sail Dress Rehearsal\n-\nCast A",
+     "location": "Garden Stage",
+     "staff": [
+      "Liam",
+      "Sara",
+      "Katelyn",
+      "Anthony"
+     ],
+     "cast": [
+      "Full Set Sail Cast and u/s + 4 x Ent Hosts",
+      "Set Sail B and C to observe"
+     ],
+     "notes": "Canyon, Show Control, Costuming Techs as needed\n\nFULL SHOW CONDITIONS - AUDIO, LX, HAZE, VIDEO",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|32",
+     "time_raw": "11:15 - 12:15",
+     "start": "2026-09-21T11:15:00",
+     "end": "2026-09-21T12:15:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure\nStumble Through\n(in full costume? in partial costume?)",
+     "location": "WDT",
+     "staff": [
+      "Creative Team",
+      "Monica (SM) to Call Show"
+     ],
+     "cast": [
+      "FULL Seas the Adventure Cast & u/s's if available"
+     ],
+     "notes": "Techs as needed, All automation, show lighting and workers on, WITH ZacTrack, NO fog but fog traps up as per show, NO bubbles, WITH pyro, House lights to half",
+     "match_reasons": [
+      "dept:show lighting",
+      "dept:zactrack",
+      "dept:stumble"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|34",
+     "time_raw": "12:30 - 12:45",
+     "start": "2026-09-21T12:30:00",
+     "end": "2026-09-21T12:45:00",
+     "time_ok": true,
+     "activity": "Out of Costume / Return Mics & ZacTracks",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "Seas the Adventure Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|35",
+     "time_raw": "12:45 - 13:45",
+     "start": "2026-09-21T12:45:00",
+     "end": "2026-09-21T13:45:00",
+     "time_ok": true,
+     "activity": "Notes from Seas the Adventrue Stumble Through",
+     "location": "WDT",
+     "staff": [
+      "Creative Team"
+     ],
+     "cast": [
+      "FULL Seas the Adventure Cast & u/s's if available"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "dept:stumble"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|41",
+     "time_raw": "14:30 - 15:00",
+     "start": "2026-09-21T14:30:00",
+     "end": "2026-09-21T15:00:00",
+     "time_ok": true,
+     "activity": "\"Half Hour\" into mics, ZacTracks, Vocal Warmup, Full Costumes, & Makeup, Check Presets, Mic Check 15 mins Before Show at 14:00",
+     "location": "WDT",
+     "staff": [
+      "Ship (SM) to announce Call Times"
+     ],
+     "cast": [
+      "Seas the Adventure Cast"
+     ],
+     "notes": "Wardrobe, Audio (mics ready at the top of this hour), ZacTracks, Props Tech to assist with Crush/Turtle adjustments as needed, Wardrobe Full Costume",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|43",
+     "time_raw": "15:00 - 15:45",
+     "start": "2026-09-21T15:00:00",
+     "end": "2026-09-21T15:45:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure Dress Run #1\n(Pyro Signoff Stage 3)",
+     "location": "WDT",
+     "staff": [
+      "Monica (SM) to call show",
+      "Creative Team",
+      "Mikaela (pyro)"
+     ],
+     "cast": [
+      "A2 Cast Invited (TBD)"
+     ],
+     "notes": "Full Automation, WITH Flying, WITH show lighting, NO work lights, WITH ZacTrack, WITH pyro, House Lights to show conditions, Full Costume & Makeup",
+     "match_reasons": [
+      "dept:show lighting",
+      "dept:zactrack",
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|44",
+     "time_raw": "15:45 - 16:00",
+     "start": "2026-09-21T15:45:00",
+     "end": "2026-09-21T16:00:00",
+     "time_ok": true,
+     "activity": "Out of Costume / Return Mics & ZacTracks",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "Seas the Adventure Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|49",
+     "time_raw": "17:00 - 18:00",
+     "start": "2026-09-21T17:00:00",
+     "end": "2026-09-21T18:00:00",
+     "time_ok": true,
+     "activity": "Notes from Seas the Adventrue Stumble Through",
+     "location": "TBD - Crew Cinema?",
+     "staff": [
+      "Creative Team"
+     ],
+     "cast": [
+      "FULL Seas the Adventure Cast & u/s's if available"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "dept:stumble"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "13:45 - 14:30",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-21T13:45:00",
+     "end": "2026-09-21T14:30:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-21T16:30:00",
+     "end": "2026-09-21T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "sheet": "Tue 9.22 - REM 3",
+   "span_start": "2026-09-22T07:30:00",
+   "span_end": "2026-09-22T09:30:00",
+   "calls": [
+    {
+     "id": "Tue 9.22 - REM 3|12",
+     "time_raw": "7:30 - 9:30",
+     "start": "2026-09-22T07:30:00",
+     "end": "2026-09-22T09:30:00",
+     "time_ok": true,
+     "activity": "Scene 3: Be Our Guest\n- From \"Eve... FAV-orites. (Giggles)\" to Button\n- Block Eve from top to her exit\n- Run (at once or twice if time allows) with full technical elements\n\nWagon Move - YES (top & end of song)\nSide Trucks - YES (top of song)",
+     "location": "WDT",
+     "staff": [
+      "Dorothy",
+      "Kevin",
+      "Joey"
+     ],
+     "cast": [
+      "All in Be Our Guest & u/s's",
+      "Wall-E",
+      "Eve",
+      "Belle",
+      "Lumiere",
+      "Dish Showgirl 1 - 2",
+      "Waiter Dancer 1 - 6",
+      "Napkin Dancer 1 - 3",
+      "Big Table Dress 1 - 2 & u/s's"
+     ],
+     "notes": "Tech as needed, All preset as show prior to - \nPreset Auto 11, S/B Auto 12 - 19, BOG Header & Leg\nMod: up at start (will rehearse with Lumiere and Belle rising from MOD during rehearsal)\nMain: up at start (will lower for table dress girls during rehearsal)\nWagon: On Green Home (Auto 10) at start\nAudio: Timecode (01:12:23)\nVideo Wall: ON with timecode shown\nProps (Puppet): Tray, Woody Doll\nProps (Others): All in Scene 3 Be Our Guest - BOG menu x 3, closhes x 2, Trolley x 3 (NO flambe), Cadelabra x 3, Napkin x 4, Table Dress x 2, Table, Table Cloth\nCostume Props: Plate Backpack x 2, Napkin Backpack x 3, Table Dress Headpieces x 2",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|82",
+     "time_raw": "9:00 - 9:45",
+     "start": null,
+     "end": null,
+     "time_ok": false,
+     "activity": "Princess Transformation Talk Thru\nDress Trial (if costume available)",
+     "location": "WDT Scene Dock",
+     "staff": [
+      "Dorothy",
+      "Kevin"
+     ],
+     "cast": [
+      "Aurora (Sydney) Fish if available"
+     ],
+     "notes": "Techs as needed, All below preset prior to - \nPreset Auto 50, S/B Auto 51 - 52\nMOD: Eve Preset on MOD\nWagon: Green Home (Auto 49)\nAudio: Track 8 \"Battery charge, increasing!\"\nSet: Backer Wall, Side Trucks, Columns\nProps: Broken Tape, Good Tape",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "11:30 - 12:30",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-22T11:30:00",
+     "end": "2026-09-22T12:30:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-22T16:30:00",
+     "end": "2026-09-22T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "sheet": "Wed 9.23 - REM 4",
+   "span_start": "2026-09-23T10:15:00",
+   "span_end": "2026-09-23T23:00:00",
+   "calls": [
+    {
+     "id": "Wed 9.23 - REM 4|20",
+     "time_raw": "10:15 - 10:30",
+     "start": "2026-09-23T10:15:00",
+     "end": "2026-09-23T10:30:00",
+     "time_ok": true,
+     "activity": "Stumble Talk Thru",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "Full Remember Cast",
+      "(Benjamin",
+      "Kate NA)"
+     ],
+     "notes": "Techs as needed",
+     "match_reasons": [
+      "dept:stumble"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|23",
+     "time_raw": "10:45 - 11:15",
+     "start": "2026-09-23T10:45:00",
+     "end": "2026-09-23T11:15:00",
+     "time_ok": true,
+     "activity": "\"Half Hour\" into mics, ZacTracks, Vocal Warmup, Full Costumes, & Makeup, Check Presets, Mic Check 15 mins Before Show at 11:00",
+     "location": "WDT",
+     "staff": [
+      "Monica (SM) to announce Call Times"
+     ],
+     "cast": [
+      "Full Remember Cast"
+     ],
+     "notes": "Wardrobe, Audio (mics ready at the top of this hour), ZacTracks, Wardrobe Full Costume\n\nKate & Benjamin to look at Coco Costume prior to Stumble",
+     "match_reasons": [
+      "dept:zactrack",
+      "dept:stumble"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|24",
+     "time_raw": "11:15 - 12:45",
+     "start": "2026-09-23T11:15:00",
+     "end": "2026-09-23T12:45:00",
+     "time_ok": true,
+     "activity": "Remember Stumble Through\n(Cast A IN)",
+     "location": "WDT",
+     "staff": [
+      "Monica (SM) to Call Show",
+      "Dorothy",
+      "Jeanette",
+      "Joey",
+      "IES",
+      "Highbar",
+      "A2 Captains to assist backstage"
+     ],
+     "cast": [
+      "Full Remember Cast",
+      "(Cast A IN)",
+      "Understudy to stay in house during show"
+     ],
+     "notes": "All Automation, All Props, WITH Flying, WITH show lighting, WITH work lights, WITH ZacTrack,  House Lights to half, Full Costume & Makeup (TBD)\n\nNo Pyro, No Bubbles, No Petals\nNo Fog, but Fog Pocket up as per show\n\nZacTrack Pockets in Costume for Leads",
+     "match_reasons": [
+      "dept:show lighting",
+      "dept:zactrack",
+      "dept:stumble"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|25",
+     "time_raw": "12:45 - 13:00",
+     "start": "2026-09-23T12:45:00",
+     "end": "2026-09-23T13:00:00",
+     "time_ok": true,
+     "activity": "Out of Costume / Return Mics & ZacTracks",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|31",
+     "time_raw": "14:00 - 15:00",
+     "start": "2026-09-23T14:00:00",
+     "end": "2026-09-23T15:00:00",
+     "time_ok": true,
+     "activity": "Notes from Remember Stumble Thru",
+     "location": "TBD - Crew Cinema?",
+     "staff": [
+      "Creative Team"
+     ],
+     "cast": [
+      "Full Remember Cast"
+     ],
+     "notes": "Cast - Please bring notepad & pen",
+     "match_reasons": [
+      "dept:stumble"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|40",
+     "time_raw": "15:00 - 15:30",
+     "start": "2026-09-23T15:00:00",
+     "end": "2026-09-23T15:30:00",
+     "time_ok": true,
+     "activity": "\"Half Hour\" into mics, ZacTracks, Vocal Warmup, Full Costumes, & Makeup, Check Presets, Mic Check 15 mins Before Show at 15:15",
+     "location": "WDT",
+     "staff": [
+      "Monica (SM) to announce Call Times"
+     ],
+     "cast": [
+      "Full Remember Cast"
+     ],
+     "notes": "Wardrobe, Audio (mics ready at the top of this hour), ZacTracks, Wardrobe Full Costume",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|41",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-23T15:30:00",
+     "end": "2026-09-23T16:30:00",
+     "time_ok": true,
+     "activity": "Remember Dress Run\n(Cast A IN)\n(Pyro Sign-off Stage 3)",
+     "location": "WDT",
+     "staff": [
+      "Mikaela",
+      "Monica (SM) to call show",
+      "Creative Team"
+     ],
+     "cast": [
+      "Full Remember Cast"
+     ],
+     "notes": "Full Automation, WITH Flying, WITH show lighting, WITH Fog, NO work lights, WITH ZacTrack, House Lights to show conditions, Full Costume, Wig & Makeup\n\nNO Pyro",
+     "match_reasons": [
+      "dept:show lighting",
+      "dept:zactrack",
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|37",
+     "time_raw": "16:15 - 16:30",
+     "start": "2026-09-23T16:15:00",
+     "end": "2026-09-23T16:30:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea\nU/S Dress Rehearsal",
+     "location": "Wayfinder Bay",
+     "staff": [
+      "Evan",
+      "Wayne",
+      "Liam",
+      "Katelyn"
+     ],
+     "cast": [
+      "Moana - Erica",
+      "Gramma Tala - Teah",
+      "Maui - Keyshaan",
+      "Tamatoa - Ralph",
+      "Dancer 1 - Gabby",
+      "Dancer 2 - Jaylo",
+      "Chelsea NA - Remember"
+     ],
+     "notes": "Shipwide, Show Control, Costuming Techs as needed, All show props set, Nets removed \n\nFULL SHOW CONDITIONS - AUDIO, LX, VIDEO NEEDED \n\n-Onboard SM to call dress rehearsal\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|42",
+     "time_raw": "16:30 - 16:45",
+     "start": "2026-09-23T16:30:00",
+     "end": "2026-09-23T16:45:00",
+     "time_ok": true,
+     "activity": "Out of Costume / Return Mics & ZacTracks",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|58",
+     "time_raw": "21:15 - 22:00",
+     "start": "2026-09-23T21:15:00",
+     "end": "2026-09-23T22:00:00",
+     "time_ok": true,
+     "activity": "Reload Pyro for Avengers Assemble Dress Rehearsal",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "N/A"
+     ],
+     "cast": [
+      "N/A"
+     ],
+     "notes": "Canyon Techs as needed",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|59",
+     "time_raw": "22:00 - 23:00",
+     "start": "2026-09-23T22:00:00",
+     "end": "2026-09-23T23:00:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Dress Rehearsal\n-\nPyro Sign Off Stage 3\nIncluding Andy Anderson Pre-Show",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "Liam",
+      "Decker",
+      "Katelyn",
+      "Evan",
+      "Monica (SM) to call"
+     ],
+     "cast": [
+      "Full Avengers Cast"
+     ],
+     "notes": "Canyon, Show Control, Costuming Techs, Broadcast as needed, Harnesses, Rigging setup prior to\n\nFULL SHOW CONDITIONS - AUDIO, LX, HAZE, VIDEO NEEDED FOR SIGN OFF",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "13:00 - 14:00",
+     "label": "LUNCH  (WDT TECH)",
+     "start": "2026-09-23T13:00:00",
+     "end": "2026-09-23T14:00:00"
+    },
+    {
+     "time_raw": "13:15 - 14:15",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-23T13:15:00",
+     "end": "2026-09-23T14:15:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-23T16:30:00",
+     "end": "2026-09-23T20:30:00"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "sheet": "Thu 9.24 - STA OPEN",
+   "span_start": "2026-09-24T09:15:00",
+   "span_end": "2026-09-24T13:15:00",
+   "calls": [
+    {
+     "id": "Thu 9.24 - STA OPEN|23",
+     "time_raw": "9:15 - 11:45",
+     "start": "2026-09-24T09:15:00",
+     "end": "2026-09-24T11:45:00",
+     "time_ok": true,
+     "activity": "SEAS THE ADVENTURE EQ's:\nPrimary & Alternate & Understudy (if you are on mic) to attend at the same sesion\n\n9:15  Hercules (10 mins)\n9:25  Moana (10 mins)\n9:35  Rapunzel (10 mins)\n9:45  Tiana (10 mins)\n10:00  Evening Star Quartet (15 mins)\n10:10  Elsa (10 mins)\n10:20  Elsa, Rapuzel, Moana (10 mins)\n10:30  Full STA Cast on Mic (1 hour 15 mins)\n11:45  End\n\n*Includes all ZacTrack Followspot adjustments",
+     "location": "WDT House / \nWarmup BSR",
+     "staff": [
+      "Gayla",
+      "Vocal Captain",
+      "& Audio Designer"
+     ],
+     "cast": [
+      "STA Cast -",
+      "wigs & hats",
+      "costume pieces with ZacTrack."
+     ],
+     "notes": "Audio, Video Wall In, Keyboard, Music Stand in House",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|26",
+     "time_raw": "11:45 - 12:15",
+     "start": "2026-09-24T11:45:00",
+     "end": "2026-09-24T12:15:00",
+     "time_ok": true,
+     "activity": "\"Half Hour\" into mics, ZacTracks, Vocal Warmup, Full Costumes, & Makeup, Check Presets, Mic Check 15 mins Before Show at 14:00",
+     "location": "WDT",
+     "staff": [
+      "Ship (SM) to announce Call Times"
+     ],
+     "cast": [
+      "Seas the Adventure Cast"
+     ],
+     "notes": "Wardrobe, Audio (mics ready at the top of this hour), ZacTracks, Props Tech to assist with Crush/Turtle adjustments as needed, Wardrobe Full Costume",
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|28",
+     "time_raw": "12:15 - 13:00",
+     "start": "2026-09-24T12:15:00",
+     "end": "2026-09-24T13:00:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure Dress Run #1",
+     "location": "WDT",
+     "staff": [
+      "Monica (SM) to call show",
+      "Creative Team",
+      "Mikaela (pyro)"
+     ],
+     "cast": [],
+     "notes": "Full Automation, WITH Flying, WITH show lighting, NO work lights, WITH ZacTrack, WITH pyro, House Lights to show conditions, Full Costume & Makeup",
+     "match_reasons": [
+      "dept:show lighting",
+      "dept:zactrack",
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|29",
+     "time_raw": "13:00 - 13:15",
+     "start": "2026-09-24T13:00:00",
+     "end": "2026-09-24T13:15:00",
+     "time_ok": true,
+     "activity": "Out of Costume / Return Mics & ZacTracks",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "Seas the Adventure Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "dept:zactrack"
+     ]
+    }
+   ],
+   "meals": [
+    {
+     "time_raw": "13:45 - 14:30",
+     "label": "LUNCH (WDT CAST)",
+     "start": "2026-09-24T13:45:00",
+     "end": "2026-09-24T14:30:00"
+    },
+    {
+     "time_raw": "16:30 - 20:30",
+     "label": "Crew Mess Opening Hours",
+     "start": "2026-09-24T16:30:00",
+     "end": "2026-09-24T20:30:00"
+    }
+   ]
+  }
+ ]
+}
