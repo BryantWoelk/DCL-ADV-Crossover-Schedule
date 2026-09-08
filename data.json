@@ -3,7 +3,7 @@
   "updated": "August 18, 2026",
   "version": "3",
   "source_file": "A1B Handover Schedule V4.xlsx",
-  "generated_at": "2026-09-08T16:44:48.943571Z",
+  "generated_at": "2026-09-08T16:48:03.167825Z",
   "name_match": "Bryant",
   "dept_tokens": [
    "show lighting",
@@ -19,7 +19,8 @@
    "moana",
    "baymax",
    "color spin",
-   "guest drill"
+   "guest drill",
+   "announcements & guest safety drill"
   ],
   "notes": "Excludes 12 stale v1 (Jul 22) duplicate tabs for Sep 19-30; uses \"Fri 9.18 - STA 1 NEW\" over the superseded original; Thu 9/24 tab date corrected from an internal typo (read 2026-09-17) to 2026-09-24 based on tab name/sequence. Show-name matches include every activity for those shows, including live guest performances (marked \"PLEASE DO NOT ATTEND\" in the sheet) alongside rehearsals."
  },
@@ -51,6 +52,23 @@
      "notes": "Sr WDT Tech to lead (conduct lift / stage orientation in 2 groups - including a backstage tour - showing how to get to trap room)",
      "match_reasons": [
       "dept:zactrack"
+     ]
+    },
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|32",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-10T15:30:00",
+     "end": "2026-09-10T16:30:00",
+     "time_ok": true,
+     "activity": "Announcements & Guest Safety Drill  / Crew Drill",
+     "location": "Shipwide",
+     "staff": [
+      "CTB Shoreside Team Members"
+     ],
+     "cast": [],
+     "notes": "A1B in Disney Look with NO name tage and NO life jacket - please blend in.",
+     "match_reasons": [
+      "show:announcements & guest safety drill"
      ]
     },
     {
@@ -929,6 +947,25 @@
      ]
     },
     {
+     "id": "(R) Mon 9.14 - STA|34",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-14T15:30:00",
+     "end": "2026-09-14T16:30:00",
+     "time_ok": true,
+     "activity": "Announcements & Guest Safety Drill",
+     "location": "Shipwide",
+     "staff": [
+      "CTB Shoreside Team Members"
+     ],
+     "cast": [
+      "NO SHADOWING DUE TO CLASS"
+     ],
+     "notes": "A1B in Disney Look with NO name tage and NO life jacket - please blend in.",
+     "match_reasons": [
+      "show:announcements & guest safety drill"
+     ]
+    },
+    {
      "id": "(R) Mon 9.14 - STA|41",
      "time_raw": "17:30 - 18:00",
      "start": "2026-09-14T17:30:00",
@@ -1516,6 +1553,23 @@
      "notes": "Sr WDT Tech to lead (conduct lift / stage orientation in 2 groups - including a backstage tour - showing how to get to trap room)",
      "match_reasons": [
       "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |36",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-17T15:30:00",
+     "end": "2026-09-17T16:30:00",
+     "time_ok": true,
+     "activity": "Announcements & Guest Safety Drill  / Crew Drill",
+     "location": "Shipwide",
+     "staff": [
+      "CTB Shoreside Team Members"
+     ],
+     "cast": [],
+     "notes": "A1B in Disney Look with NO name tage and NO life jacket - please blend in.",
+     "match_reasons": [
+      "show:announcements & guest safety drill"
      ]
     },
     {
@@ -3306,6 +3360,25 @@
      ]
     },
     {
+     "id": "Mon 9.21 - STA 2|45",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-21T15:30:00",
+     "end": "2026-09-21T16:30:00",
+     "time_ok": true,
+     "activity": "Announcements & Guest Safety Drill",
+     "location": "Shipwide",
+     "staff": [
+      "CTB Shoreside Team Members"
+     ],
+     "cast": [
+      "NO SHADOWING DUE TO CLASS"
+     ],
+     "notes": "A1B in Disney Look with NO name tage and NO life jacket - please blend in.",
+     "match_reasons": [
+      "show:announcements & guest safety drill"
+     ]
+    },
+    {
      "id": "Mon 9.21 - STA 2|44",
      "time_raw": "15:45 - 16:00",
      "start": "2026-09-21T15:45:00",
@@ -4468,6 +4541,23 @@
      "notes": null,
      "match_reasons": [
       "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|34",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-24T15:30:00",
+     "end": "2026-09-24T16:30:00",
+     "time_ok": true,
+     "activity": "Announcements & Guest Safety Drill  / Crew Drill",
+     "location": "Shipwide",
+     "staff": [
+      "CTB Shoreside Team Members"
+     ],
+     "cast": [],
+     "notes": "A1B in Disney Look with NO name tage and NO life jacket - please blend in.",
+     "match_reasons": [
+      "show:announcements & guest safety drill"
      ]
     },
     {
