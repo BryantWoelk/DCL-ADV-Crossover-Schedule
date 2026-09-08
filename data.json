@@ -3,7 +3,7 @@
   "updated": "August 18, 2026",
   "version": "3",
   "source_file": "A1B Handover Schedule V4.xlsx",
-  "generated_at": "2026-09-08T16:16:51.179696Z",
+  "generated_at": "2026-09-08T16:44:48.943571Z",
   "name_match": "Bryant",
   "dept_tokens": [
    "show lighting",
@@ -11,7 +11,17 @@
    "stumble",
    "dress"
   ],
-  "notes": "Excludes 12 stale v1 (Jul 22) duplicate tabs for Sep 19-30; uses \"Fri 9.18 - STA 1 NEW\" over the superseded original; Thu 9/24 tab date corrected from an internal typo (read 2026-09-17) to 2026-09-24 based on tab name/sequence."
+  "show_tokens": [
+   "seas the adventure",
+   "remember",
+   "avengers",
+   "duffy",
+   "moana",
+   "baymax",
+   "color spin",
+   "guest drill"
+  ],
+  "notes": "Excludes 12 stale v1 (Jul 22) duplicate tabs for Sep 19-30; uses \"Fri 9.18 - STA 1 NEW\" over the superseded original; Thu 9/24 tab date corrected from an internal typo (read 2026-09-17) to 2026-09-24 based on tab name/sequence. Show-name matches include every activity for those shows, including live guest performances (marked \"PLEASE DO NOT ATTEND\" in the sheet) alongside rehearsals."
  },
  "days": [
   {

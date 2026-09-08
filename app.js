@@ -122,7 +122,8 @@ function initInfoModal() {
     document.getElementById('info-version').textContent = m.version || '?';
     document.getElementById('info-source').textContent = m.source_file || '?';
     document.getElementById('info-generated').textContent = new Date(m.generated_at).toLocaleString();
-    document.getElementById('info-tokens').textContent = 'Bryant + ' + (m.dept_tokens || []).join(', ');
+    document.getElementById('info-tokens').textContent =
+      'Bryant + ' + (m.dept_tokens || []).join(', ') + ' + shows: ' + (m.show_tokens || []).join(', ');
     document.getElementById('info-notes').textContent = m.notes || '';
     modal.classList.add('show');
   });
