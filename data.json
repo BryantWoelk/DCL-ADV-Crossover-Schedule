@@ -3,7 +3,7 @@
   "updated": "August 18, 2026",
   "version": "3",
   "source_file": "A1B Handover Schedule V4.xlsx",
-  "generated_at": "2026-09-06T18:25:03.618514Z",
+  "generated_at": "2026-09-08T16:16:51.179696Z",
   "name_match": "Bryant",
   "dept_tokens": [
    "show lighting",
@@ -18,7 +18,7 @@
    "date": "2026-09-10",
    "sheet": "(R) Thu 9.10 EMBARK - STA",
    "span_start": "2026-09-10T13:15:00",
-   "span_end": "2026-09-10T14:45:00",
+   "span_end": "2026-09-10T22:30:00",
    "calls": [
     {
      "id": "(R) Thu 9.10 EMBARK - STA|22",
@@ -42,6 +42,119 @@
      "match_reasons": [
       "dept:zactrack"
      ]
+    },
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|39",
+     "time_raw": "17:30 - 18:00",
+     "start": "2026-09-10T17:30:00",
+     "end": "2026-09-10T18:00:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|40",
+     "time_raw": "18:00 - 18:30",
+     "start": "2026-09-10T18:00:00",
+     "end": "2026-09-10T18:30:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #1",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|42",
+     "time_raw": "19:00 - 19:30",
+     "start": "2026-09-10T19:00:00",
+     "end": "2026-09-10T19:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|46",
+     "time_raw": "20:45 - 21:15",
+     "start": "2026-09-10T20:45:00",
+     "end": "2026-09-10T21:15:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #3\nPlease do not enter the theatre or sit down until 20:40",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": "PLEASE DO NOT ATTEND",
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|47",
+     "time_raw": "21:15 - 21:45",
+     "start": "2026-09-10T21:15:00",
+     "end": "2026-09-10T21:45:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A1B Cast Viewing",
+      "House Left (Gramma Talas) (7 pax max)",
+      "Samm",
+      "Justin",
+      "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
+     ],
+     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|51",
+     "time_raw": "22:00 - 22:30",
+     "start": "2026-09-10T22:00:00",
+     "end": "2026-09-10T22:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #4\n(Pyro Signoff Stage 1)\nPlease do not enter the theatre or sit down until 21:55",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B STA Cas Viewing",
+      "House Left (5 pax max)",
+      "Ocampo",
+      "Jabriel",
+      "House Right (5 pax max)",
+      "Hanna",
+      "Grace R",
+      "Sydney"
+     ],
+     "notes": "*Meet at the theatre entrance as a group, then enter together and remain at the back of the theatre.\n\n(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) No more than 4 to a group, blend with the guests,\n(4) Give seat priority to guests",
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
     }
    ],
    "meals": [
@@ -62,9 +175,113 @@
   {
    "date": "2026-09-11",
    "sheet": "(R) Fri 9.11 - Movie",
-   "span_start": null,
-   "span_end": null,
-   "calls": [],
+   "span_start": "2026-09-11T11:45:00",
+   "span_end": "2026-09-11T23:30:00",
+   "calls": [
+    {
+     "id": "(R) Fri 9.11 - Movie|27",
+     "time_raw": "11:45 - 13:00",
+     "start": "2026-09-11T11:45:00",
+     "end": "2026-09-11T13:00:00",
+     "time_ok": true,
+     "activity": "Tiana's Medley:\nFrom Heroine Playoff to Tiana's Exit\n(Session 1 / 2)\n- NO Elsa, Rapunzel, Moana\n- NO Stairs\n- NO costume (except for Louis)\n\n\n45 mins Block (no costume)\n15 mins Into Costume (Louis)\n15 mins Block & Run (w/ costume)",
+     "location": "WDT",
+     "staff": [
+      "Joey",
+      "Monica (SM to call automations?)"
+     ],
+     "cast": [
+      "Samm (Louis)",
+      "Michael O",
+      "Jabriel (Ensemble)",
+      "Grace R (Waiter 3 u/s)"
+     ],
+     "notes": "Techs as needed, All below preset as per show prior to -\nPreset Auto 9 on stage (No stairs), S/B Auto 10 (shipwheel on SL)\n\nStage: Ship Wheel (off at start), No Stairs, Mod (down at start), Main (up at start)\nAudio: Timecode (01:24:40) \"End of Heroine Medley\"\nProps: All Props in P&F (Parasol x 2, Tables with table cloths, Chairs, Napkin, Flowers, Spoons, Bowls, Gumbo Tray, Gumbo Cart with Bowls, Gumbo Pot w/ Spoon & Hot Sauce, Tray with Flutes x 2, Tiana Boa x 1, Tray w/ Beignets, Powder Sugar Shakers, Trombone, Saxophone, Clarient, Louis's Trumpet\nCostume: Wardrobe, ART Head (statc mode), Guest 1 - 4 Hats, Costume",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Fri 9.11 - Movie|32",
+     "time_raw": "15:45 - 16:15",
+     "start": "2026-09-11T15:45:00",
+     "end": "2026-09-11T16:15:00",
+     "time_ok": true,
+     "activity": "Tiana's Medley:\nFrom Heroine Playoff to Tiana's Exit\n(Session 2 / 2)\n- NO Elsa, Rapunzel, Moana\n- NO Stairs\n- NO costume (except for Louis)\n\n15 mins Into Costume (Louis) / Notes from Run\n15 mins Block & Run (w/ costume)",
+     "location": "WDT",
+     "staff": [
+      "Joey",
+      "Monica (SM to call automations?)"
+     ],
+     "cast": [
+      "Samm (Louis)",
+      "Michael O",
+      "Jabriel (Ensemble)",
+      "Grace R (Waiter 3 u/s)"
+     ],
+     "notes": "Techs as needed, All below preset as per show prior to -\nPreset Auto 9 on stage (No stairs), S/B Auto 10 (shipwheel on SL)\n\nStage: Ship Wheel (off at start), No Stairs, Mod (down at start), Main (up at start)\nAudio: Timecode (01:24:40) \"End of Heroine Medley\"\nProps: All Props in P&F (Parasol x 2, Tables with table cloths, Chairs, Napkin, Flowers, Spoons, Bowls, Gumbo Tray, Gumbo Cart with Bowls, Gumbo Pot w/ Spoon & Hot Sauce, Tray with Flutes x 2, Tiana Boa x 1, Tray w/ Beignets, Powder Sugar Shakers, Trombone, Saxophone, Clarient, Louis's Trumpet\nCostume: Wardrobe, ART Head (statc mode), Guest 1 - 4 Hats, Costume",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Fri 9.11 - Movie|40",
+     "time_raw": "18:15 - 18:45",
+     "start": "2026-09-11T18:15:00",
+     "end": "2026-09-11T18:45:00",
+     "time_ok": true,
+     "activity": "Color Spin #1",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:color spin"
+     ]
+    },
+    {
+     "id": "(R) Fri 9.11 - Movie|44",
+     "time_raw": "20:30 - 21:00",
+     "start": "2026-09-11T20:30:00",
+     "end": "2026-09-11T21:00:00",
+     "time_ok": true,
+     "activity": "Color Spin #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A1B Cast Viewing",
+      "House Left (Gramma Talas) (7 pax max)",
+      "Hanna",
+      "Samuel",
+      "Bailey",
+      "Elana",
+      "Gabby",
+      "Daniel",
+      "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
+     ],
+     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:color spin"
+     ]
+    },
+    {
+     "id": "(R) Fri 9.11 - Movie|46",
+     "time_raw": "22:00 - 23:30",
+     "start": "2026-09-11T22:00:00",
+     "end": "2026-09-11T23:30:00",
+     "time_ok": true,
+     "activity": "CHANGEOVER Set for Remember",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs - Preset Table & 2 Mics (hot & ready); For props, scenic, & costume presets, refer to the next day's schedule",
+     "match_reasons": [
+      "show:remember"
+     ]
+    }
+   ],
    "meals": [
     {
      "time_raw": "13:00 - 14:00",
@@ -83,9 +300,159 @@
   {
    "date": "2026-09-12",
    "sheet": "(R) Sat 9.12 - REM",
-   "span_start": "2026-09-12T15:30:00",
-   "span_end": "2026-09-12T16:30:00",
+   "span_start": "2026-09-12T07:45:00",
+   "span_end": "2026-09-12T21:30:00",
    "calls": [
+    {
+     "id": "(R) Sat 9.12 - REM|15",
+     "time_raw": "7:45 - 8:15",
+     "start": "2026-09-12T07:45:00",
+     "end": "2026-09-12T08:15:00",
+     "time_ok": true,
+     "activity": "Scene 1: Prologue / Remember Me (30 mins)\n- From Top of Show to End of Remember Me, Miguel exits from Mod to Trap Room\n\nWagon & Trucks - NO\nMod - YES",
+     "location": "WDT",
+     "staff": [
+      "Joey",
+      "Monica (SM to call automations?)"
+     ],
+     "cast": [
+      "Miguel (Grace R)"
+     ],
+     "notes": "Tech as needed, All preset as show prior to - \nS/B Auto 1 - 6, Main (up at start), Mod (up at start), Austrian (OUT at start)\nAudio: Track 1\nProps: Miguel's Guitar",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|17",
+     "time_raw": "8:15 - 9:00",
+     "start": "2026-09-12T08:15:00",
+     "end": "2026-09-12T09:00:00",
+     "time_ok": true,
+     "activity": "Techs Set for Duffy",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs as needed",
+     "match_reasons": [
+      "show:duffy"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|20",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-12T09:30:00",
+     "end": "2026-09-12T10:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #1",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "A1B Cast Viewing",
+      "House Left (Gramma Talas) (7 pax max)",
+      "Elana",
+      "Daniel",
+      "Gabby",
+      "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
+     ],
+     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|22",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-12T10:30:00",
+     "end": "2026-09-12T11:00:00",
+     "time_ok": true,
+     "activity": "Duffy and the Friend Ship #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:duffy"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|23",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-12T10:30:00",
+     "end": "2026-09-12T11:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #2",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|29",
+     "time_raw": "13:00",
+     "start": "2026-09-12T13:00:00",
+     "end": null,
+     "time_ok": true,
+     "activity": "Remember Lift Call",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|31",
+     "time_raw": "14:00 - 15:00",
+     "start": "2026-09-12T14:00:00",
+     "end": "2026-09-12T15:00:00",
+     "time_ok": true,
+     "activity": "Remember #1\n(Pyro Sign-off Stage 1 for Eve)",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Cast Viewing",
+      "House Left (5 pax max)",
+      "Michael O",
+      "Jabriel",
+      "Sydney",
+      "House Right (5 pax max)",
+      "Samuel",
+      "Grace",
+      "P2"
+     ],
+     "notes": "A1B Cast Viewing\n*Meet at the theatre entrance as a group, then enter together and remain at the back of the theatre.\n\n(1) Cast in Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests\n\n\nA1B Cast Backstage Shadow\n**Meet outside SM office 20 mins before show\n**Come in FULL BLACK",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|34",
+     "time_raw": "15:00 - 15:30",
+     "start": "2026-09-12T15:00:00",
+     "end": "2026-09-12T15:30:00",
+     "time_ok": true,
+     "activity": "Techs set for Baymax Recovery Procedure Rehearsal",
+     "location": "Fairytale Hall",
+     "staff": [
+      "N/A"
+     ],
+     "cast": [
+      "N/A"
+     ],
+     "notes": "Costuming Techs as needed, Baymax costume, Cover for floor, 2 Sets of basics",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
     {
      "id": "(R) Sat 9.12 - REM|35",
      "time_raw": "15:30 - 16:30",
@@ -106,6 +473,113 @@
      "notes": "Tech as needed, All preset as show prior to - \nPreset Auto 11, S/B Auto 12 - 19, BOG Legs\nMod: up at start\nMain: up at start\nWagon: No\nAudio: Timecode (01:12:23)\nVideo Wall: ON with timecode shown\nProps (Others): All in Scene 3 Be Our Guest - BOG menu x 3, closhes x 2, Trolley x 3 (NO flambe), Cadelabra x 3, Napkin x 4, Table Dress x 2, Table, Table Cloth\nCostume Props: Plate Backpack x 2",
      "match_reasons": [
       "dept:dress"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|36",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-12T15:30:00",
+     "end": "2026-09-12T16:30:00",
+     "time_ok": true,
+     "activity": "Baymax Fall Recovery Procedures \n*With costume",
+     "location": "Fairytale Hall",
+     "staff": [
+      "Liam",
+      "CHM1"
+     ],
+     "cast": [
+      "Samm",
+      "Justin"
+     ],
+     "notes": "Costuming Techs as needed, Baymax costume, Baymax shoes, Baymax batteries, Cover for floor, 2 sets of basics",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|42",
+     "time_raw": "18:00 - 19:00",
+     "start": "2026-09-12T18:00:00",
+     "end": "2026-09-12T19:00:00",
+     "time_ok": true,
+     "activity": "Remember #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Remember Cast",
+      "Backstage Shadowing",
+      "Sydney (Elsa)",
+      "Grace R"
+     ],
+     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK\n(3) Meet with counterpart and following them backstage",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|43",
+     "time_raw": "18:00 - 18:45",
+     "start": "2026-09-12T18:00:00",
+     "end": "2026-09-12T18:45:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #1\n1800 Preshow\n1815 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|46",
+     "time_raw": "20:30 - 21:15",
+     "start": "2026-09-12T20:30:00",
+     "end": "2026-09-12T21:15:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #2\n(Pyro Signoff Stage 1)\n2030 Preshow\n2045 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A1B Cast Viewing",
+      "House Left (Gramma Talas) (7 pax max)",
+      "Justin",
+      "Elana",
+      "Samm",
+      "Thomas",
+      "House Right (Mowgli's) (7 pax max)",
+      "Rory",
+      "Daniel T",
+      "Gabby",
+      "Hanna",
+      "Bailey",
+      "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
+     ],
+     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Sat 9.12 - REM|47",
+     "time_raw": "20:30 - 21:30",
+     "start": "2026-09-12T20:30:00",
+     "end": "2026-09-12T21:30:00",
+     "time_ok": true,
+     "activity": "Remember #3",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Remember Cast",
+      "Backstage Shadowing",
+      "Michael O",
+      "Jabriel"
+     ],
+     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK\n(3) Meet with counterpart and following them backstage",
+     "match_reasons": [
+      "show:remember"
      ]
     }
    ],
@@ -133,9 +607,63 @@
   {
    "date": "2026-09-13",
    "sheet": "(R) Sun 9.13 - REM",
-   "span_start": "2026-09-13T11:00:00",
-   "span_end": "2026-09-13T11:30:00",
+   "span_start": "2026-09-13T08:30:00",
+   "span_end": "2026-09-13T22:30:00",
    "calls": [
+    {
+     "id": "(R) Sun 9.13 - REM|16",
+     "time_raw": "8:30 - 9:00",
+     "start": "2026-09-13T08:30:00",
+     "end": "2026-09-13T09:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #1",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "A1B Cast to view:",
+      "Gabby",
+      "Elana",
+      "Daniel T"
+     ],
+     "notes": "(1) Cast in Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|19",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-13T09:30:00",
+     "end": "2026-09-13T10:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #2",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|20",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-13T10:30:00",
+     "end": "2026-09-13T11:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #3",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
     {
      "id": "(R) Sun 9.13 - REM|22",
      "time_raw": "11:00 - 11:30",
@@ -155,6 +683,107 @@
      "notes": "Techs as needed, All below preset prior to - \nPreset Auto 50, S/B Auto 51 - 58\nWagon: Green Home (Auto 49)\nAudio: Timecode (2:20:15) \"Decreasing\"\nSet: Columns",
      "match_reasons": [
       "dept:dress"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|34",
+     "time_raw": "17:00",
+     "start": "2026-09-13T17:00:00",
+     "end": null,
+     "time_ok": true,
+     "activity": "Remember Lift Call",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|36",
+     "time_raw": "18:00 - 18:45",
+     "start": "2026-09-13T18:00:00",
+     "end": "2026-09-13T18:45:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #1\n1800 Preshow\n1815 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|37",
+     "time_raw": "18:00 - 19:00",
+     "start": "2026-09-13T18:00:00",
+     "end": "2026-09-13T19:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Remember Cast",
+      "Backstage Shadowing",
+      "Samuel",
+      "Sydney (Aurora)"
+     ],
+     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|40",
+     "time_raw": "20:30 - 21:15",
+     "start": "2026-09-13T20:30:00",
+     "end": "2026-09-13T21:15:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #2\n2030 Preshow\n2045 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|41",
+     "time_raw": "20:30 - 21:30",
+     "start": "2026-09-13T20:30:00",
+     "end": "2026-09-13T21:30:00",
+     "time_ok": true,
+     "activity": "Remember #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|43",
+     "time_raw": "21:30 - 22:30",
+     "start": "2026-09-13T21:30:00",
+     "end": "2026-09-13T22:30:00",
+     "time_ok": true,
+     "activity": "CHANGEOVER Set for Seas the Adventure",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs - Preset Table & 2 Mics (hot & ready); For props, scenic, & costume presets, refer to the next day's schedule",
+     "match_reasons": [
+      "show:seas the adventure"
      ]
     }
    ],
@@ -176,9 +805,242 @@
   {
    "date": "2026-09-14",
    "sheet": "(R) Mon 9.14 - STA",
-   "span_start": null,
-   "span_end": null,
-   "calls": [],
+   "span_start": "2026-09-14T07:00:00",
+   "span_end": "2026-09-14T23:45:00",
+   "calls": [
+    {
+     "id": "(R) Mon 9.14 - STA|13",
+     "time_raw": "7:00 - 7:45",
+     "start": "2026-09-14T07:00:00",
+     "end": "2026-09-14T07:45:00",
+     "time_ok": true,
+     "activity": "Color Spin Block Through",
+     "location": "Garden Stage",
+     "staff": [
+      "Liam",
+      "Hayley",
+      "Tony",
+      "Sarah",
+      "Daniel"
+     ],
+     "cast": [
+      "Gabby",
+      "Elana",
+      "Thomas",
+      "Bailey",
+      "Hanna",
+      "Sam"
+     ],
+     "notes": "Silent DJ/ IEMs System Set Up\n\n-CHM1/CPM1 confirm A2 Captains?",
+     "match_reasons": [
+      "show:color spin"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|14",
+     "time_raw": "7:45 - 8:15",
+     "start": "2026-09-14T07:45:00",
+     "end": "2026-09-14T08:15:00",
+     "time_ok": true,
+     "activity": "Baymax Block Through",
+     "location": "Garden Stage",
+     "staff": [
+      "Ashi",
+      "Sarah",
+      "Tony"
+     ],
+     "cast": [
+      "Samm",
+      "Justin"
+     ],
+     "notes": "Silent DJ/ IEMs System Set Up, No scenic needed\n\n-CHM1/CPM1 confirm A2 Captains?",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|17",
+     "time_raw": "8:30 - 9:00",
+     "start": "2026-09-14T08:30:00",
+     "end": "2026-09-14T09:00:00",
+     "time_ok": true,
+     "activity": "Avengers Prop Familiarization",
+     "location": "Garden Stage",
+     "staff": [
+      "Liam",
+      "Decker",
+      "Kami"
+     ],
+     "cast": [
+      "Samm",
+      "Thomas",
+      "Elana",
+      "Rory",
+      "Daniel",
+      "Bailey",
+      "Gabby",
+      "Elana",
+      "Hanna"
+     ],
+     "notes": "Silent DJ/ IEMs System Set Up, Avengers Props as needed (listed below) \n- Loki Scepter \n- Black Widow Batons\n- Thor Hammer \n- Deadpool Swords\n- 1 x Hydra Blaster (No pyro loaded)\n- Task Force Batons\n- 2 x Task Force Blasters (No pyro loaded)",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|18",
+     "time_raw": "9:00 - 10:00",
+     "start": "2026-09-14T09:00:00",
+     "end": "2026-09-14T10:00:00",
+     "time_ok": true,
+     "activity": "Avengers Block Through",
+     "location": "Garden Stage",
+     "staff": [
+      "Liam",
+      "Ashi",
+      "Hayley",
+      "Kami"
+     ],
+     "cast": [
+      "Samm",
+      "Thomas",
+      "Elana",
+      "Rory",
+      "Daniel",
+      "Bailey",
+      "Gabby",
+      "Elana",
+      "Hanna",
+      "Justin"
+     ],
+     "notes": "Silent DJ/ IEMs System Set Up, No scenic needed\n\n-CHM1/CPM1 confirm A2 Captains?",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|41",
+     "time_raw": "17:30 - 18:00",
+     "start": "2026-09-14T17:30:00",
+     "end": "2026-09-14T18:00:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Cast Backstage Shadow",
+      "Michael O",
+      "M9",
+      "Samm"
+     ],
+     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK",
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|42",
+     "time_raw": "18:00 - 18:30",
+     "start": "2026-09-14T18:00:00",
+     "end": "2026-09-14T18:30:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #1",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|44",
+     "time_raw": "19:00 - 19:30",
+     "start": "2026-09-14T19:00:00",
+     "end": "2026-09-14T19:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Cast Backstage Shadow",
+      "Grace",
+      "Sydney"
+     ],
+     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK",
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|47",
+     "time_raw": "20:45 - 21:15",
+     "start": "2026-09-14T20:45:00",
+     "end": "2026-09-14T21:15:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #3",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|48",
+     "time_raw": "21:15 - 21:45",
+     "start": "2026-09-14T21:15:00",
+     "end": "2026-09-14T21:45:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|54",
+     "time_raw": "22:00 - 22:30",
+     "start": "2026-09-14T22:00:00",
+     "end": "2026-09-14T22:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #4",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|55",
+     "time_raw": "22:45 - 23:45",
+     "start": "2026-09-14T22:45:00",
+     "end": "2026-09-14T23:45:00",
+     "time_ok": true,
+     "activity": "CHANGEOVER Set for Remember",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs - Preset Table & 2 Mics (hot & ready); For props, scenic, & costume presets, refer to the next day's schedule",
+     "match_reasons": [
+      "show:remember"
+     ]
+    }
+   ],
    "meals": [
     {
      "time_raw": "13:15 - 14:15",
@@ -197,9 +1059,216 @@
   {
    "date": "2026-09-15",
    "sheet": "(R) Tue 9.15 - REM",
-   "span_start": null,
-   "span_end": null,
-   "calls": [],
+   "span_start": "2026-09-15T08:15:00",
+   "span_end": "2026-09-15T21:30:00",
+   "calls": [
+    {
+     "id": "(R) Tue 9.15 - REM|17",
+     "time_raw": "8:15 - 9:00",
+     "start": "2026-09-15T08:15:00",
+     "end": "2026-09-15T09:00:00",
+     "time_ok": true,
+     "activity": "Techs Set for Duffy",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs as needed",
+     "match_reasons": [
+      "show:duffy"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|18",
+     "time_raw": "8:30 - 9:00",
+     "start": "2026-09-15T08:30:00",
+     "end": "2026-09-15T09:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #1",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|20",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-15T09:30:00",
+     "end": "2026-09-15T10:00:00",
+     "time_ok": true,
+     "activity": "Duffy and the Friend Ship #1",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:duffy"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|21",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-15T09:30:00",
+     "end": "2026-09-15T10:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #2",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|23",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-15T10:30:00",
+     "end": "2026-09-15T11:00:00",
+     "time_ok": true,
+     "activity": "Duffy and the Friend Ship #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:duffy"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|24",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-15T10:30:00",
+     "end": "2026-09-15T11:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #3",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|26",
+     "time_raw": "11:30 - 12:00",
+     "start": "2026-09-15T11:30:00",
+     "end": "2026-09-15T12:00:00",
+     "time_ok": true,
+     "activity": "Scene 13A: Remember Me Reprise / Wake Up Wall-E\n\n- From Let It Go Playoff to Wall-E Power's Down / Before Miguel Sings\n\nWagon - YES\nSide Trucks - NO",
+     "location": "WDT",
+     "staff": [
+      "Joey",
+      "Monica (SM to call automations?)"
+     ],
+     "cast": [
+      "Sydney (Elsa)",
+      "Grace R (Miguel)",
+      "Jabriel (Sebastian",
+      "Genie u/s)"
+     ],
+     "notes": "Techs as needed, All below preset prior to - \nPreset Auto 69, S/B Auto 70 - 72\nAustrian: IN at start (swag) (Auto 67)\nWagon: Green Home (Auto 69)\nAudio: Timecode (2:39:50) Top of Let It Go Playoff\nProps: Snow Paper",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|37",
+     "time_raw": "17:00",
+     "start": "2026-09-15T17:00:00",
+     "end": null,
+     "time_ok": true,
+     "activity": "Remember Lift Call",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|39",
+     "time_raw": "18:00 - 18:45",
+     "start": "2026-09-15T18:00:00",
+     "end": "2026-09-15T18:45:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #1\n1800 Preshow\n1815 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|40",
+     "time_raw": "18:00 - 19:00",
+     "start": "2026-09-15T18:00:00",
+     "end": "2026-09-15T19:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|43",
+     "time_raw": "20:30 - 21:15",
+     "start": "2026-09-15T20:30:00",
+     "end": "2026-09-15T21:15:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #2\n2030 Preshow\n2045 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Tue 9.15 - REM|44",
+     "time_raw": "20:30 - 21:30",
+     "start": "2026-09-15T20:30:00",
+     "end": "2026-09-15T21:30:00",
+     "time_ok": true,
+     "activity": "Remember #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    }
+   ],
    "meals": [
     {
      "time_raw": "12:00 - 13:00",
@@ -218,9 +1287,178 @@
   {
    "date": "2026-09-16",
    "sheet": "(R) Wed 9.16 - REM",
-   "span_start": null,
-   "span_end": null,
-   "calls": [],
+   "span_start": "2026-09-16T08:30:00",
+   "span_end": "2026-09-16T22:30:00",
+   "calls": [
+    {
+     "id": "(R) Wed 9.16 - REM|16",
+     "time_raw": "8:30 - 9:00",
+     "start": "2026-09-16T08:30:00",
+     "end": "2026-09-16T09:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #1",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|17",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-16T09:30:00",
+     "end": "2026-09-16T10:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #2",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|19",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-16T10:30:00",
+     "end": "2026-09-16T11:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #3",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|23",
+     "time_raw": "13:00",
+     "start": "2026-09-16T13:00:00",
+     "end": null,
+     "time_ok": true,
+     "activity": "Remember Lift Call",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A2 Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|25",
+     "time_raw": "14:00 - 15:00",
+     "start": "2026-09-16T14:00:00",
+     "end": "2026-09-16T15:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1 Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|32",
+     "time_raw": "18:00 - 18:45",
+     "start": "2026-09-16T18:00:00",
+     "end": "2026-09-16T18:45:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #1\n1800 Preshow\n1815 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A2 Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|33",
+     "time_raw": "18:00 - 19:00",
+     "start": "2026-09-16T18:00:00",
+     "end": "2026-09-16T19:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|36",
+     "time_raw": "20:30 - 21:15",
+     "start": "2026-09-16T20:30:00",
+     "end": "2026-09-16T21:15:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #2\n2030 Preshow\n2045 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A2 Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|37",
+     "time_raw": "20:30 - 21:30",
+     "start": "2026-09-16T20:30:00",
+     "end": "2026-09-16T21:30:00",
+     "time_ok": true,
+     "activity": "Remember #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Wed 9.16 - REM|38",
+     "time_raw": "21:30 - 22:30",
+     "start": "2026-09-16T21:30:00",
+     "end": "2026-09-16T22:30:00",
+     "time_ok": true,
+     "activity": "CHANGEOVER Set for Seas the Adventure",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs - Preset Table & 2 Mics (hot & ready); For props, scenic, & costume presets, refer to the next day's schedule",
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    }
+   ],
    "meals": [
     {
      "time_raw": "12:00 - 12:45",
@@ -246,7 +1484,7 @@
    "date": "2026-09-17",
    "sheet": "Thu 9.17 EMBARK ",
    "span_start": "2026-09-17T13:15:00",
-   "span_end": "2026-09-18T00:30:00",
+   "span_end": "2026-09-18T02:00:00",
    "calls": [
     {
      "id": "Thu 9.17 EMBARK |27",
@@ -268,6 +1506,169 @@
      "notes": "Sr WDT Tech to lead (conduct lift / stage orientation in 2 groups - including a backstage tour - showing how to get to trap room)",
      "match_reasons": [
       "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |43",
+     "time_raw": "17:30 - 18:00",
+     "start": "2026-09-17T17:30:00",
+     "end": "2026-09-17T18:00:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |44",
+     "time_raw": "18:00 - 18:30",
+     "start": "2026-09-17T18:00:00",
+     "end": "2026-09-17T18:30:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #1",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |46",
+     "time_raw": "19:00 - 19:30",
+     "start": "2026-09-17T19:00:00",
+     "end": "2026-09-17T19:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #2\n(Pyro Signoff Stage 1)\nPlease do not enter the theatre or sit down until 19:55",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B STA Cast to View",
+      "House Left (5 pax max)",
+      "Savannah",
+      "Fish",
+      "Grace",
+      "Madi",
+      "Elora",
+      "House Right (5 pax max)",
+      "J",
+      "Erica",
+      "Aaliyah",
+      "Asta",
+      "Grace D"
+     ],
+     "notes": "*Meet at the theatre entrance as a group, then enter together and remain at the back of the theatre.\n\n(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) No more than 4 to a group, blend with the guests,\n(4) Give seat priority to guests",
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |49",
+     "time_raw": "20:45 - 21:15",
+     "start": "2026-09-17T20:45:00",
+     "end": "2026-09-17T21:15:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #3\n(Pyro Signoff Stage 1)\nPlease do not enter the theatre or sit down until 20:40",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B STA Cast to View",
+      "House Left (5 pax max)",
+      "Tiffany",
+      "Cynthia",
+      "Ashley",
+      "Jill",
+      "Jaylo",
+      "House Right (5 pax max)",
+      "Crystal",
+      "Andrew",
+      "Samm",
+      "Michael L",
+      "Renny"
+     ],
+     "notes": "*Meet at the theatre entrance as a group, then enter together and remain at the back of the theatre.\n\n(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) No more than 4 to a group, blend with the guests,\n(4) Give seat priority to guests",
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |50",
+     "time_raw": "21:15 - 21:45",
+     "start": "2026-09-17T21:15:00",
+     "end": "2026-09-17T21:45:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |54",
+     "time_raw": "22:00 - 22:30",
+     "start": "2026-09-17T22:00:00",
+     "end": "2026-09-17T22:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #4\n(Pyro Signoff Stage 1)\nPlease do not enter the theatre or sit down until 21:55",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B STA Cast to View",
+      "House Left (5 pax max)",
+      "Keyshann",
+      "Emmanuel",
+      "Dare",
+      "ABK",
+      "Carter",
+      "House Right (5 pax max)",
+      "Jesse",
+      "Dani",
+      "Bennett",
+      "Maris",
+      "Lucy"
+     ],
+     "notes": "*Meet at the theatre entrance as a group, then enter together and remain at the back of the theatre.\n\n(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) No more than 4 to a group, blend with the guests,\n(4) Give seat priority to guests",
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |57",
+     "time_raw": "22:30 - 23:00",
+     "start": "2026-09-17T22:30:00",
+     "end": "2026-09-17T23:00:00",
+     "time_ok": true,
+     "activity": "Duffy Cast - Into Costume",
+     "location": "WDT Dressing Room?",
+     "staff": [],
+     "cast": [
+      "Full Duffy Cast (primary)",
+      "Jill",
+      "Ashley",
+      "Hanna",
+      "Isabella",
+      "Grace D",
+      "Cynthia",
+      "Tiffany",
+      "Jason"
+     ],
+     "notes": "All costume preset prior to",
+     "match_reasons": [
+      "show:duffy"
      ]
     },
     {
@@ -295,7 +1696,83 @@
      ],
      "notes": "Tech as needed, All below preset as per show prior to \n- Full tech Props / Scenic / Audio / Video\n- Tippy Blue Barrel + Seat + Puppet\n- All props (Gelatoni Paintbrush, Gelatoni Pallet, Spyglass, Magnifying Glass, Ocarina, Bowl + Spoon, Flag, Braclet, Buckets, Saw, Hammer, Paintbrushes) preset, Boat + STA Wheel\n- God Mic x 2, Speaker",
      "match_reasons": [
-      "dept:dress"
+      "dept:dress",
+      "show:duffy"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |60",
+     "time_raw": "23:30 - 00:00",
+     "start": "2026-09-17T23:30:00",
+     "end": "2026-09-18T00:00:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Into Harness",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "IES",
+      "Decker",
+      "Liam"
+     ],
+     "cast": [
+      "Red Skull - Logan",
+      "J.R.",
+      "Black Panther - Carter",
+      "Crystal",
+      "Task Master - Sky",
+      "Ben",
+      "Joe",
+      "Wanda - Ellen",
+      "Maddy"
+     ],
+     "notes": "Harnesses set up prior to",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |61",
+     "time_raw": "00:00 - 02:00",
+     "start": "2026-09-18T00:00:00",
+     "end": "2026-09-18T02:00:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Flight Training \n- Out of Costume \n\nRed Skull (Step Out + CPH)\nBlack Panther\nTask Master\nWanda",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "IES",
+      "Decker",
+      "Liam"
+     ],
+     "cast": [
+      "Red Skull - Logan",
+      "J.R.",
+      "Black Panther - Carter",
+      "Crystal",
+      "Task Master - Sky",
+      "Ben",
+      "Joe",
+      "Wanda - Ellen",
+      "Maddy"
+     ],
+     "notes": "Canyon Techs as needed, Harnesses, Rigging setup prior to",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |62",
+     "time_raw": "00:30 - 01:00",
+     "start": "2026-09-18T00:30:00",
+     "end": "2026-09-18T01:00:00",
+     "time_ok": true,
+     "activity": "Duffy Cast - Out of Costume",
+     "location": "WDT Dressing Room?",
+     "staff": [],
+     "cast": [
+      "Full Duffy Cast (primary)"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:duffy"
      ]
     }
    ],
@@ -318,7 +1795,7 @@
    "date": "2026-09-18",
    "sheet": "Fri 9.18 - STA 1 NEW",
    "span_start": "2026-09-18T08:30:00",
-   "span_end": "2026-09-19T01:00:00",
+   "span_end": "2026-09-19T02:00:00",
    "calls": [
     {
      "id": "Fri 9.18 - STA 1 NEW|22",
@@ -344,6 +1821,58 @@
      ]
     },
     {
+     "id": "Fri 9.18 - STA 1 NEW|27",
+     "time_raw": "10:00 - 10:30",
+     "start": "2026-09-18T10:00:00",
+     "end": "2026-09-18T10:30:00",
+     "time_ok": true,
+     "activity": "Techs set for Baymax Super Exercise Expo Rehearsals",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs as needed, Preset for Baymax Super Exercise Expo Rehearsal",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|29",
+     "time_raw": "10:00 - 11:00",
+     "start": "2026-09-18T10:00:00",
+     "end": "2026-09-18T11:00:00",
+     "time_ok": true,
+     "activity": "Baymax into Costume",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "Samm"
+     ],
+     "notes": "Costuming techs as needed",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|34",
+     "time_raw": "11:00 - 11:45",
+     "start": "2026-09-18T11:00:00",
+     "end": "2026-09-18T11:45:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo Blocking",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "Jeremy",
+      "Samm",
+      "Ralph",
+      "Justin"
+     ],
+     "notes": "Canyon and Costuming Techs as needed, 1x god mic\n\n- CPM1 to confirm captains",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
      "id": "Fri 9.18 - STA 1 NEW|43",
      "time_raw": "12:00 - 12:30",
      "start": "2026-09-18T12:00:00",
@@ -360,7 +1889,98 @@
      ],
      "notes": "Canyon, Show Control, Costuming Techs as needed\n\nFULL SHOW CONDITIONS - AUDIO, LX, HAZE, VIDEO",
      "match_reasons": [
-      "dept:dress"
+      "dept:dress",
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|44",
+     "time_raw": "12:30 - 13:00",
+     "start": "2026-09-18T12:30:00",
+     "end": "2026-09-18T13:00:00",
+     "time_ok": true,
+     "activity": "Baymax and Hiro out of costume / Samm goes to WDT Swimming Goofy Flight rehearsal right after",
+     "location": "Garden Stage/WDT Dressing Room",
+     "staff": [],
+     "cast": [],
+     "notes": "Greeters as needed",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|60",
+     "time_raw": "18:15 - 18:45",
+     "start": "2026-09-18T18:15:00",
+     "end": "2026-09-18T18:45:00",
+     "time_ok": true,
+     "activity": "Color Spin #1",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:color spin"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|86",
+     "time_raw": "23:30 - 00:00",
+     "start": "2026-09-18T23:30:00",
+     "end": "2026-09-19T00:00:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Into Harness",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "IES",
+      "Decker",
+      "Liam"
+     ],
+     "cast": [
+      "TBC Names"
+     ],
+     "notes": "Harnesses set up prior to",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|76",
+     "time_raw": "00:00 - 01:00",
+     "start": "2026-09-19T00:00:00",
+     "end": "2026-09-19T01:00:00",
+     "time_ok": true,
+     "activity": "CHANGEOVER Set for Remember",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs - Preset Table & 2 Mics (hot & ready); For props, scenic, & costume presets, refer to the next day's schedule",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1 NEW|87",
+     "time_raw": "00:00 - 02:00",
+     "start": "2026-09-19T00:00:00",
+     "end": "2026-09-19T02:00:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Flight Training \n- Out of Costume \n\n-TBD Flying",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "IES",
+      "Decker",
+      "Liam"
+     ],
+     "cast": [
+      "TBC Names",
+      "Non STA"
+     ],
+     "notes": "Canyon Techs as needed, Harnesses, Rigging setup prior to",
+     "match_reasons": [
+      "show:avengers"
      ]
     },
     {
@@ -494,6 +2114,50 @@
      ]
     },
     {
+     "id": "Sat 9.19 - REM 1|28",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-19T09:30:00",
+     "end": "2026-09-19T10:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #1",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "A1B Cast Viewing",
+      "House Left (Gramma Talas) (7 pax max)",
+      "Hanna",
+      "Samuel",
+      "Bailey",
+      "Elana",
+      "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
+     ],
+     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|30",
+     "time_raw": "9:45 - 10:15",
+     "start": "2026-09-19T09:45:00",
+     "end": "2026-09-19T10:15:00",
+     "time_ok": true,
+     "activity": "Scene 1: Prologue / Remember Me (30 mins)\n- From Top of Show to End of Remember Me, Miguel exits from Mod to Trap Room\n\nWagon Move - YES\nTrucks - YES (w/ Truck Tech)",
+     "location": "WDT",
+     "staff": [
+      "Dorothy",
+      "Kevin"
+     ],
+     "cast": [
+      "Wall-E",
+      "Miguel & u/s's"
+     ],
+     "notes": "Tech as needed, All preset as show prior to - \nS/B Auto 1 - 6, Main (up at start), Mod (up at start), Austrian (OUT at start)\nWall-E - Full Battery, Head ON\nWagon - Start onstage (will run with wagon raising from Main during rehearsal), Ramp IN/OUT TBD\nSL Truck - Tech for props handoff\nAudio: Track 1\nVideo Wall - ON with timecode shown\nProps: All in Scene 1 (Candle Stick, Cooler, Duster, Woody Doll, Tape, Broom, Hankerchief, Miguel's Guitar)",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
      "id": "Sat 9.19 - REM 1|31",
      "time_raw": "10:00 - 11:00",
      "start": "2026-09-19T10:00:00",
@@ -539,6 +2203,112 @@
      ]
     },
     {
+     "id": "Sat 9.19 - REM 1|34",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-19T10:30:00",
+     "end": "2026-09-19T11:00:00",
+     "time_ok": true,
+     "activity": "Duffy and the Friend Ship #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:duffy"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|35",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-19T10:30:00",
+     "end": "2026-09-19T11:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #2",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|45",
+     "time_raw": "13:00",
+     "start": "2026-09-19T13:00:00",
+     "end": null,
+     "time_ok": true,
+     "activity": "Remember Lift Call",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|48",
+     "time_raw": "14:00 - 15:00",
+     "start": "2026-09-19T14:00:00",
+     "end": "2026-09-19T15:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": "PLEASE DO NOT ATTEND",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|51",
+     "time_raw": "15:00 - 15:30",
+     "start": "2026-09-19T15:00:00",
+     "end": "2026-09-19T15:30:00",
+     "time_ok": true,
+     "activity": "Techs set for Baymax Recovery Procedure Rehearsal",
+     "location": "Fairytale Hall",
+     "staff": [
+      "N/A"
+     ],
+     "cast": [
+      "N/A"
+     ],
+     "notes": "Costuming Techs as needed, Baymax costume, Cover for floor, 2 Sets of basics",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|52",
+     "time_raw": "15:30 - 16:30",
+     "start": "2026-09-19T15:30:00",
+     "end": "2026-09-19T16:30:00",
+     "time_ok": true,
+     "activity": "Baymax Fall Recovery Procedures \n*With costume",
+     "location": "Fairytale Hall",
+     "staff": [
+      "Liam",
+      "CHM1"
+     ],
+     "cast": [
+      "Samm",
+      "Justin"
+     ],
+     "notes": "Costuming Techs as needed, Baymax costume, Baymax shoes, Baymax batteries, Cover for floor, 2 sets of basics",
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
      "id": "Sat 9.19 - REM 1|55",
      "time_raw": "15:45 - 16:30",
      "start": "2026-09-19T15:45:00",
@@ -563,6 +2333,115 @@
      "match_reasons": [
       "dept:zactrack",
       "dept:dress"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|60",
+     "time_raw": "18:00 - 19:00",
+     "start": "2026-09-19T18:00:00",
+     "end": "2026-09-19T19:00:00",
+     "time_ok": true,
+     "activity": "Remember #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|61",
+     "time_raw": "18:00 - 18:45",
+     "start": "2026-09-19T18:00:00",
+     "end": "2026-09-19T18:45:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #1\n1800 Preshow\n1815 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|64",
+     "time_raw": "20:30 - 21:15",
+     "start": "2026-09-19T20:30:00",
+     "end": "2026-09-19T21:15:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #2\n(Pyro Signoff Stage 1)\n2030 Preshow\n2045 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A1B Cast Viewing",
+      "House Left (Gramma Talas) (7 pax max)",
+      "Justin",
+      "Elana",
+      "Samm",
+      "Thomas",
+      "House Right (Mowgli's) (7 pax max)",
+      "Rory",
+      "Daniel T",
+      "Gabby",
+      "Hanna",
+      "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
+     ],
+     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|65",
+     "time_raw": "20:30 - 21:30",
+     "start": "2026-09-19T20:30:00",
+     "end": "2026-09-19T21:30:00",
+     "time_ok": true,
+     "activity": "Remember #3\n(Pyro Sign-off Stage 1)",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Cast Viewing",
+      "House Left (5 pax max)",
+      "Jason",
+      "P2",
+      "Lucy",
+      "Ellen",
+      "House Right (5 pax max)",
+      "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
+     ],
+     "notes": "A1B Cast Viewing\n*Meet at the theatre entrance as a group, then enter together and remain at the back of the theatre.\n\n(1) Cast in Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|71",
+     "time_raw": "21:30 - 00:45",
+     "start": "2026-09-19T21:30:00",
+     "end": "2026-09-20T00:45:00",
+     "time_ok": true,
+     "activity": "Garden Stage - Flight Training\n-\nIn Costume\n\nTBC (No carter, no jeremy)\nEllen NA - Remember Pyro",
+     "location": "Deck 10 Garden Stage\n\n*Meet in Deck 10 Garden Stage Greenroom",
+     "staff": [
+      "IES",
+      "Decker",
+      "Monica (SM to call)",
+      "Liam",
+      "CHM1"
+     ],
+     "cast": [
+      "TBC"
+     ],
+     "notes": "Canyon, Show Control, Costuming Techs as needed, Harnesses, Rigging setup prior to\n\nFULL SHOW CONDITIONS - AUDIO, LX, HAZE, VIDEO NEEDED FOR SIGN OFF",
+     "match_reasons": [
+      "show:remember"
      ]
     },
     {
@@ -684,7 +2563,65 @@
      "cast": [],
      "notes": "Techs as needed, Preset for Color Spin Block and Dress Rehearsal",
      "match_reasons": [
-      "dept:dress"
+      "dept:dress",
+      "show:color spin"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|23",
+     "time_raw": "8:30 - 8:45",
+     "start": "2026-09-20T08:30:00",
+     "end": "2026-09-20T08:45:00",
+     "time_ok": true,
+     "activity": "Color Spin Block - Color Crew Opening",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "Color Crew",
+      "2 x Ent Hosts"
+     ],
+     "notes": "Techs as needed, 1x god mic, 2 x mics for ent hosts \n- CPM1 and 2 confirm captains and Ent Hosts",
+     "match_reasons": [
+      "show:color spin"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|30",
+     "time_raw": "8:30 - 9:00",
+     "start": "2026-09-20T08:30:00",
+     "end": "2026-09-20T09:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #1",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "A1B Cast to view:",
+      "Gabby",
+      "Elana",
+      "Daniel T"
+     ],
+     "notes": "(1) Cast in Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|25",
+     "time_raw": "8:45 - 10:00",
+     "start": "2026-09-20T08:45:00",
+     "end": "2026-09-20T10:00:00",
+     "time_ok": true,
+     "activity": "Color Spin Block in Costume\n\nPop/Break when needed",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "Full Color Spin Cast and u/s + 2x Ent Hosts",
+      "Samuel",
+      "Chelsea NA"
+     ],
+     "notes": "Techs as needed, 1x god mic, 2 x mics for ent hosts \n- CPM1 and 2 confirm captains and Ent Hosts",
+     "match_reasons": [
+      "show:color spin"
      ]
     },
     {
@@ -713,6 +2650,23 @@
      ]
     },
     {
+     "id": "Sun 9.20 - REM 2|34",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-20T09:30:00",
+     "end": "2026-09-20T10:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #2",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
      "id": "Sun 9.20 - REM 2|28",
      "time_raw": "10:15 - 10:30",
      "start": "2026-09-20T10:15:00",
@@ -728,7 +2682,98 @@
      ],
      "notes": "Canyon, Show Control, Costuming Techs as needed\n\nFULL SHOW CONDITIONS - AUDIO, LX, HAZE, VIDEO",
      "match_reasons": [
-      "dept:dress"
+      "dept:dress",
+      "show:color spin"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|29",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-20T10:30:00",
+     "end": "2026-09-20T11:00:00",
+     "time_ok": true,
+     "activity": "Color Spin Cast out of Costume",
+     "location": "Various Locations",
+     "staff": [],
+     "cast": [],
+     "notes": "Greeters to walk VIPs back",
+     "match_reasons": [
+      "show:color spin"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|35",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-20T10:30:00",
+     "end": "2026-09-20T11:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #3",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|39",
+     "time_raw": "12:00 - 12:45",
+     "start": "2026-09-20T12:00:00",
+     "end": "2026-09-20T12:45:00",
+     "time_ok": true,
+     "activity": "Techs set for Moana COTS rehearsal",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs as needed, all show props preset, nets removed\n\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|43",
+     "time_raw": "13:00 - 13:15",
+     "start": "2026-09-20T13:00:00",
+     "end": "2026-09-20T13:15:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea EQs",
+     "location": "Wayfinder Bay",
+     "staff": [
+      "Evan",
+      "Wayne",
+      "Liam"
+     ],
+     "cast": [
+      "Moana COTS Cast and u/s"
+     ],
+     "notes": "Techs as needed\n\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|44",
+     "time_raw": "13:15 - 14:45",
+     "start": "2026-09-20T13:15:00",
+     "end": "2026-09-20T14:45:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea\nBlock",
+     "location": "Wayfinder Bay",
+     "staff": [
+      "Evan",
+      "Wayne",
+      "Liam",
+      "Katelyn"
+     ],
+     "cast": [
+      "Moana COTS Cast and u/s"
+     ],
+     "notes": "Shipwide, Show Control, Costuming Techs as needed, All show props set, Nets removed \n\n2x god mics\n\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
+     "match_reasons": [
+      "show:moana"
      ]
     },
     {
@@ -773,7 +2818,150 @@
      ],
      "notes": "Shipwide, Show Control, Costuming Techs as needed, All show props set, Nets removed \n\nFULL SHOW CONDITIONS - AUDIO, LX, VIDEO NEEDED \n\n-Onboard SM to call dress rehearsal\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
      "match_reasons": [
-      "dept:dress"
+      "dept:dress",
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|53",
+     "time_raw": "15:30 - 16:00",
+     "start": "2026-09-20T15:30:00",
+     "end": "2026-09-20T16:00:00",
+     "time_ok": true,
+     "activity": "Moana Cast out of Costume",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "Moana COTS Cast"
+     ],
+     "notes": "Costume techs as needed",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|54",
+     "time_raw": "15:45 - 16:30",
+     "start": "2026-09-20T15:45:00",
+     "end": "2026-09-20T16:30:00",
+     "time_ok": true,
+     "activity": "Scene 13A: Remember Me Reprise / Wake Up Wall-E\n\nPart A (scenework) (30 mins)\n- From Let It Go Playoff to Wall-E Power's Down / Before Miguel Sings\n\nWagon - YES\nSide Trucks - YES",
+     "location": "WDT",
+     "staff": [
+      "Dorothy",
+      "Kevin"
+     ],
+     "cast": [
+      "Wall-E",
+      "Eve",
+      "Anna",
+      "Elsa & u/s's"
+     ],
+     "notes": "Techs as needed, All below preset prior to - \nPreset Auto 69, S/B Auto 70 - 72\nAustrian: IN at start (swag) (Auto 67)\nWagon: Green Home (Auto 69)\nAudio: Timecode (2:39:50) Top of Let It Go Playoff\nProps: Snow Paper",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|59",
+     "time_raw": "17:00",
+     "start": "2026-09-20T17:00:00",
+     "end": null,
+     "time_ok": true,
+     "activity": "Remember Lift Call",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|61",
+     "time_raw": "18:00 - 18:45",
+     "start": "2026-09-20T18:00:00",
+     "end": "2026-09-20T18:45:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #1\n1800 Preshow\n1815 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|62",
+     "time_raw": "18:00 - 19:00",
+     "start": "2026-09-20T18:00:00",
+     "end": "2026-09-20T19:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Remember Cast to View",
+      "M9",
+      "Samuel"
+     ],
+     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|65",
+     "time_raw": "20:30 - 21:15",
+     "start": "2026-09-20T20:30:00",
+     "end": "2026-09-20T21:15:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #2\n2030 Preshow\n2045 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|66",
+     "time_raw": "20:30 - 21:30",
+     "start": "2026-09-20T20:30:00",
+     "end": "2026-09-20T21:30:00",
+     "time_ok": true,
+     "activity": "Remember #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B Remember Cast to View",
+      "Truman",
+      "Sydney"
+     ],
+     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Sun 9.20 - REM 2|67",
+     "time_raw": "21:30 - 22:30",
+     "start": "2026-09-20T21:30:00",
+     "end": "2026-09-20T22:30:00",
+     "time_ok": true,
+     "activity": "CHANGEOVER Set for Seas the Adventure",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs - Preset Table & 2 Mics (hot & ready); For props, scenic, & costume presets, refer to the next day's schedule",
+     "match_reasons": [
+      "show:seas the adventure"
      ]
     },
     {
@@ -830,9 +3018,66 @@
   {
    "date": "2026-09-21",
    "sheet": "Mon 9.21 - STA 2",
-   "span_start": "2026-09-21T09:45:00",
-   "span_end": "2026-09-21T18:00:00",
+   "span_start": "2026-09-21T07:00:00",
+   "span_end": "2026-09-22T00:30:00",
    "calls": [
+    {
+     "id": "Mon 9.21 - STA 2|13",
+     "time_raw": "7:00 - 9:00",
+     "start": "2026-09-21T07:00:00",
+     "end": "2026-09-21T09:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea\nBlock & Run",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "TBD"
+     ],
+     "cast": [
+      "TBD"
+     ],
+     "notes": "Silent DJ / IEM system with bluetooth or AUX connection",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|14",
+     "time_raw": "7:00 - 9:00",
+     "start": "2026-09-21T07:00:00",
+     "end": "2026-09-21T09:00:00",
+     "time_ok": true,
+     "activity": "Avengers Pyro Demo",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "TBD"
+     ],
+     "cast": [
+      "TBD"
+     ],
+     "notes": "Silent DJ / IEM system with bluetooth or AUX connection",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|15",
+     "time_raw": "7:00 - 9:00",
+     "start": "2026-09-21T07:00:00",
+     "end": "2026-09-21T09:00:00",
+     "time_ok": true,
+     "activity": "Avengers Costume Flight",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "TBD"
+     ],
+     "cast": [
+      "TBD"
+     ],
+     "notes": "Silent DJ / IEM system with bluetooth or AUX connection",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
     {
      "id": "Mon 9.21 - STA 2|20",
      "time_raw": "9:45 - 10:15",
@@ -881,7 +3126,8 @@
      ],
      "notes": null,
      "match_reasons": [
-      "dept:stumble"
+      "dept:stumble",
+      "show:seas the adventure"
      ]
     },
     {
@@ -966,7 +3212,8 @@
      "match_reasons": [
       "dept:show lighting",
       "dept:zactrack",
-      "dept:stumble"
+      "dept:stumble",
+      "show:seas the adventure"
      ]
     },
     {
@@ -1044,7 +3291,8 @@
      "match_reasons": [
       "dept:show lighting",
       "dept:zactrack",
-      "dept:dress"
+      "dept:dress",
+      "show:seas the adventure"
      ]
     },
     {
@@ -1082,6 +3330,212 @@
      "match_reasons": [
       "dept:stumble"
      ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|51",
+     "time_raw": "17:30 - 18:00",
+     "start": "2026-09-21T17:30:00",
+     "end": "2026-09-21T18:00:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|52",
+     "time_raw": "18:00 - 18:30",
+     "start": "2026-09-21T18:00:00",
+     "end": "2026-09-21T18:30:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #1",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|54",
+     "time_raw": "19:00 - 19:30",
+     "start": "2026-09-21T19:00:00",
+     "end": "2026-09-21T19:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|57",
+     "time_raw": "20:45 - 21:15",
+     "start": "2026-09-21T20:45:00",
+     "end": "2026-09-21T21:15:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #3",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|58",
+     "time_raw": "21:15 - 21:45",
+     "start": "2026-09-21T21:15:00",
+     "end": "2026-09-21T21:45:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|60",
+     "time_raw": "21:45 - 22:15",
+     "start": "2026-09-21T21:45:00",
+     "end": "2026-09-21T22:15:00",
+     "time_ok": true,
+     "activity": "Set for rehearsal - Avengers Pyro Demo",
+     "location": "Deck 10 Garden Stage",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs as needed, Avengers Set and Props:\n- Hydra Blaster\n- Hydra foggers\n- Task Force Blaster\n- Captain America Pyro Shield - GREY VERSION",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|61",
+     "time_raw": "22:00 - 22:30",
+     "start": "2026-09-21T22:00:00",
+     "end": "2026-09-21T22:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #4",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|62",
+     "time_raw": "22:15 - 23:00",
+     "start": "2026-09-21T22:15:00",
+     "end": "2026-09-21T23:00:00",
+     "time_ok": true,
+     "activity": "Pyro loading - Avengers Assemble",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "Mikaela",
+      "Snr Canyon"
+     ],
+     "cast": [],
+     "notes": "Techs as needed for pyro demo",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|63",
+     "time_raw": "22:45 - 23:45",
+     "start": "2026-09-21T22:45:00",
+     "end": "2026-09-21T23:45:00",
+     "time_ok": true,
+     "activity": "CHANGEOVER Set for Remember",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs - Preset Table & 2 Mics (hot & ready); For props, scenic, & costume presets, refer to the next day's schedule",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|64",
+     "time_raw": "23:00 - 00:30",
+     "start": "2026-09-21T23:00:00",
+     "end": "2026-09-22T00:30:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Pyro Demo\n\n-Pyro Sign Off 2",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "Mikaela",
+      "Liam",
+      "Evan",
+      "Katelyn"
+     ],
+     "cast": [
+      "Full Avengers Cast and u/s",
+      "-Cast MUST be in full long sleeve and pants"
+     ],
+     "notes": "Techs as needed, Avengers Set and Props:\n- Hydra Blaster\n- Hydra foggers\n- Task Force Blaster\n- Captain America Pyro Shield - GREY VERSION",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Mon 9.21 - STA 2|18",
+     "time_raw": "7:00 - 10:00\n\n(shorten to 2.5 hours- keep only 30 minutes less with new Goofy, new Louis, new Flappers)",
+     "start": null,
+     "end": null,
+     "time_ok": false,
+     "activity": "Tiana's Medley:\nFrom Heroine Playoff to Tiana's Exit\n- No Elsa, Rapunzel, Moana\n- No Stairs\n\n(1) Blocking (no costume) (1 hour 20 mins)\n(2) Break / Reset (10 mins)\n(3) Run (no costume) (15 mins)\n(4) Notes from Run /\nGoofy, Louis, Tiana into Costume (15 mins)\n(5) Block (with costume) (45 mins)\n(6) Run (with costume) (15 mins)\n\nTBD Tiana costume readiness",
+     "location": "WDT",
+     "staff": [
+      "Dorothy",
+      "Joey",
+      "Sara",
+      "A2 Captains (Marlee B)",
+      "Dorothy to start while Joey SVAM"
+     ],
+     "cast": [
+      "Cast A IN",
+      "Goofy ART",
+      "Tiana",
+      "Quartet",
+      "Guests",
+      "Flappers",
+      "Waiters",
+      "Louis & u/s's",
+      "Rapunzel",
+      "& Moana not needed for playoff",
+      "No Crystal"
+     ],
+     "notes": "Techs as needed, All below preset as per show prior to -\nPreset Auto 9 on stage (No stairs), S/B Auto 10 (shipwheel on SL)\n\nStage: Ship Wheel (off at start), No Stairs, Mod (down at start), Main (up at start)\nAudio: Timecode (01:24:40) \"End of Heroine Medley\"\nProps: All Props in P&F (Parasol x 2, Tables with table cloths, Chairs, Napkin, Flowers, Spoons, Bowls, Gumbo Tray, Gumbo Cart with Bowls, Gumbo Pot w/ Spoon & Hot Sauce, Tray with Flutes x 2, Tiana Boa x 1, Tray w/ Beignets, Powder Sugar Shakers, Trombone, Saxophone, Clarient, Louis's Trumpet\nCostume: Wardrobe, ART Head (statc mode), Guest 1 - 4 Hats, Costume",
+     "match_reasons": [
+      "show:moana"
+     ]
     }
    ],
    "meals": [
@@ -1103,7 +3557,7 @@
    "date": "2026-09-22",
    "sheet": "Tue 9.22 - REM 3",
    "span_start": "2026-09-22T07:30:00",
-   "span_end": "2026-09-22T09:30:00",
+   "span_end": "2026-09-23T02:00:00",
    "calls": [
     {
      "id": "Tue 9.22 - REM 3|12",
@@ -1132,6 +3586,226 @@
      "notes": "Tech as needed, All preset as show prior to - \nPreset Auto 11, S/B Auto 12 - 19, BOG Header & Leg\nMod: up at start (will rehearse with Lumiere and Belle rising from MOD during rehearsal)\nMain: up at start (will lower for table dress girls during rehearsal)\nWagon: On Green Home (Auto 10) at start\nAudio: Timecode (01:12:23)\nVideo Wall: ON with timecode shown\nProps (Puppet): Tray, Woody Doll\nProps (Others): All in Scene 3 Be Our Guest - BOG menu x 3, closhes x 2, Trolley x 3 (NO flambe), Cadelabra x 3, Napkin x 4, Table Dress x 2, Table, Table Cloth\nCostume Props: Plate Backpack x 2, Napkin Backpack x 3, Table Dress Headpieces x 2",
      "match_reasons": [
       "dept:dress"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|14",
+     "time_raw": "8:30 - 9:00",
+     "start": "2026-09-22T08:30:00",
+     "end": "2026-09-22T09:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #1",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|16",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-22T09:30:00",
+     "end": "2026-09-22T10:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #2",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|19",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-22T10:30:00",
+     "end": "2026-09-22T11:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #3",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|20",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-22T10:30:00",
+     "end": "2026-09-22T11:00:00",
+     "time_ok": true,
+     "activity": "Duffy and the Friend Ship #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:duffy"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|24",
+     "time_raw": "14:45 - 15:30",
+     "start": "2026-09-22T14:45:00",
+     "end": "2026-09-22T15:30:00",
+     "time_ok": true,
+     "activity": "Scene 13A: Remember Me Reprise / Wake Up Wall-E\n\nPart B (Remember Me Reprise) (30 mins)\n- From Miguel Sings to Top of Coco (No ensemble entrance)\n\nWagon - YES\nSide Trucks - YES",
+     "location": "WDT & House",
+     "staff": [
+      "Dorothy",
+      "Kevin"
+     ],
+     "cast": [
+      "Wall-E",
+      "Eve",
+      "Genie",
+      "Sebastian",
+      "Anna",
+      "Elsa",
+      "Aurora",
+      "Cinderella",
+      "Snow White",
+      "Miguel & u/s's"
+     ],
+     "notes": "Techs as needed, All below preset prior to - \nPreset Auto 69, S/B Auto 70 - 72\nAustrian: IN at start (swag) (Auto 67)\nWagon: Green Home (Auto 69)\nAudio: Timecode (2:39:50) Top of Let It Go Playoff\nProps: Snow Paper",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|30",
+     "time_raw": "17:00",
+     "start": "2026-09-22T17:00:00",
+     "end": null,
+     "time_ok": true,
+     "activity": "Remember Lift Call",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|32",
+     "time_raw": "18:00 - 18:45",
+     "start": "2026-09-22T18:00:00",
+     "end": "2026-09-22T18:45:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #1\n1800 Preshow\n1815 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|33",
+     "time_raw": "18:00 - 19:00",
+     "start": "2026-09-22T18:00:00",
+     "end": "2026-09-22T19:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|36",
+     "time_raw": "20:30 - 21:15",
+     "start": "2026-09-22T20:30:00",
+     "end": "2026-09-22T21:15:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #2\n2030 Preshow\n2045 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|37",
+     "time_raw": "20:30 - 21:30",
+     "start": "2026-09-22T20:30:00",
+     "end": "2026-09-22T21:30:00",
+     "time_ok": true,
+     "activity": "Remember #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|48",
+     "time_raw": "23:00 - 01:30",
+     "start": "2026-09-22T23:00:00",
+     "end": "2026-09-23T01:30:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Block in Costume WITH FIGHTS?",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "Liam",
+      "Katelyn",
+      "Evan",
+      "Decker"
+     ],
+     "cast": [
+      "Full Avengers Cast",
+      "u/s to observe"
+     ],
+     "notes": "Costuming and Canyon techs as needed, Avengers scenic and props needed, no pyro, stage lights on/ clean wash for blocking, Stark Expo displayed on LED Screen",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|49",
+     "time_raw": "01:30 - 2:00",
+     "start": "2026-09-23T01:30:00",
+     "end": "2026-09-23T02:00:00",
+     "time_ok": true,
+     "activity": "Avengers Out of Costume",
+     "location": "WDT Dressing Room",
+     "staff": [],
+     "cast": [
+      "Full Avengers Cast"
+     ],
+     "notes": "Costuming techs as needed",
+     "match_reasons": [
+      "show:avengers"
      ]
     },
     {
@@ -1173,9 +3847,66 @@
   {
    "date": "2026-09-23",
    "sheet": "Wed 9.23 - REM 4",
-   "span_start": "2026-09-23T10:15:00",
+   "span_start": "2026-09-23T07:30:00",
    "span_end": "2026-09-23T23:00:00",
    "calls": [
+    {
+     "id": "Wed 9.23 - REM 4|18",
+     "time_raw": "7:30 - 10:00",
+     "start": "2026-09-23T07:30:00",
+     "end": "2026-09-23T10:00:00",
+     "time_ok": true,
+     "activity": "Scene 13B: Remember Me / Poco Loco (choreo focus)\nPart 1 / 3 (Total 2.5 hours)\nCoco choreo (End Before Wagon Comes In)\n\nWagon - NO\nSide Trucks - NO\n\n(No Tech Support)",
+     "location": "WDT",
+     "staff": [
+      "Joey"
+     ],
+     "cast": [
+      "All in Coco & u/s's",
+      "(No Wall-E & Eve)",
+      "Add (last 30 mins):",
+      "Wall-E",
+      "Eve & u/s's"
+     ],
+     "notes": "Open Sage with All Coco props preset as show prior to.\nTechs as needed, All below preset prior to - \nPreset Auto 76\nAudio: Timecode (2:44:38) Top of Coco Music\nSet: Coco Header\nProps: Miguel's Guitar, Hat x 5, Coco Table w/ Table Cloth x 2, Table Cloth x 2, Enchanladas x 2, Jugs x 4, Trumpet x 1, Coco Guitar x 4",
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|14",
+     "time_raw": "8:30 - 9:00",
+     "start": "2026-09-23T08:30:00",
+     "end": "2026-09-23T09:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #1",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|15",
+     "time_raw": "9:30 - 10:00",
+     "start": "2026-09-23T09:30:00",
+     "end": "2026-09-23T10:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #2",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
     {
      "id": "Wed 9.23 - REM 4|20",
      "time_raw": "10:15 - 10:30",
@@ -1193,6 +3924,23 @@
      "notes": "Techs as needed",
      "match_reasons": [
       "dept:stumble"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|16",
+     "time_raw": "10:30 - 11:00",
+     "start": "2026-09-23T10:30:00",
+     "end": "2026-09-23T11:00:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea #3",
+     "location": "Wayfinder Bay",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:moana"
      ]
     },
     {
@@ -1241,7 +3989,8 @@
      "match_reasons": [
       "dept:show lighting",
       "dept:zactrack",
-      "dept:stumble"
+      "dept:stumble",
+      "show:remember"
      ]
     },
     {
@@ -1260,6 +4009,23 @@
      ]
     },
     {
+     "id": "Wed 9.23 - REM 4|28",
+     "time_raw": "13:00",
+     "start": "2026-09-23T13:00:00",
+     "end": null,
+     "time_ok": true,
+     "activity": "Remember Lift Call",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A2 Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
      "id": "Wed 9.23 - REM 4|31",
      "time_raw": "14:00 - 15:00",
      "start": "2026-09-23T14:00:00",
@@ -1275,7 +4041,51 @@
      ],
      "notes": "Cast - Please bring notepad & pen",
      "match_reasons": [
-      "dept:stumble"
+      "dept:stumble",
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|32",
+     "time_raw": "14:00 - 15:00",
+     "start": "2026-09-23T14:00:00",
+     "end": "2026-09-23T15:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1 Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|33",
+     "time_raw": "14:45 - 15:15",
+     "start": "2026-09-23T14:45:00",
+     "end": "2026-09-23T15:15:00",
+     "time_ok": true,
+     "activity": "Moana Cast into Costume",
+     "location": "Wayfinder Bay",
+     "staff": [
+      "Evan",
+      "Wayne",
+      "Liam"
+     ],
+     "cast": [
+      "Moana - Erica",
+      "Gramma Tala - Teah",
+      "Maui - Keyshaan",
+      "Tamatoa - Ralph",
+      "Dancer 1 - Gabby",
+      "Dancer 2 - Jaylo"
+     ],
+     "notes": "Techs as needed\n\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
+     "match_reasons": [
+      "show:moana"
      ]
     },
     {
@@ -1298,6 +4108,34 @@
      ]
     },
     {
+     "id": "Wed 9.23 - REM 4|34",
+     "time_raw": "15:15 - 16:05",
+     "start": "2026-09-23T15:15:00",
+     "end": "2026-09-23T16:05:00",
+     "time_ok": true,
+     "activity": "Moana: Call of the Sea\nU/S Block",
+     "location": "Wayfinder Bay",
+     "staff": [
+      "Evan",
+      "Wayne",
+      "Liam",
+      "Katelyn"
+     ],
+     "cast": [
+      "Moana - Erica",
+      "Gramma Tala - Teah",
+      "Maui - Keyshaan",
+      "Tamatoa - Ralph",
+      "Dancer 1 - Gabby",
+      "Dancer 2 - Jaylo",
+      "Chelsea NA - Remember"
+     ],
+     "notes": "Shipwide, Show Control, Costuming Techs as needed, All show props set, Nets removed \n\n2x god mics\n\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
+     "match_reasons": [
+      "show:moana"
+     ]
+    },
+    {
      "id": "Wed 9.23 - REM 4|41",
      "time_raw": "15:30 - 16:30",
      "start": "2026-09-23T15:30:00",
@@ -1317,7 +4155,8 @@
      "match_reasons": [
       "dept:show lighting",
       "dept:zactrack",
-      "dept:dress"
+      "dept:dress",
+      "show:remember"
      ]
     },
     {
@@ -1345,7 +4184,8 @@
      ],
      "notes": "Shipwide, Show Control, Costuming Techs as needed, All show props set, Nets removed \n\nFULL SHOW CONDITIONS - AUDIO, LX, VIDEO NEEDED \n\n-Onboard SM to call dress rehearsal\n-SM to confirm lifeguards, venue\n-ACD to confirm move cancelled",
      "match_reasons": [
-      "dept:dress"
+      "dept:dress",
+      "show:moana"
      ]
     },
     {
@@ -1364,6 +4204,93 @@
      ]
     },
     {
+     "id": "Wed 9.23 - REM 4|49",
+     "time_raw": "18:00 - 18:45",
+     "start": "2026-09-23T18:00:00",
+     "end": "2026-09-23T18:45:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #1\n1800 Preshow\n1815 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A1 Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|50",
+     "time_raw": "18:00 - 19:00",
+     "start": "2026-09-23T18:00:00",
+     "end": "2026-09-23T19:00:00",
+     "time_ok": true,
+     "activity": "Remember #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|53",
+     "time_raw": "20:30 - 21:15",
+     "start": "2026-09-23T20:30:00",
+     "end": "2026-09-23T21:15:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble #2\n2030 Preshow\n2045 Show",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A1 Cast"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|54",
+     "time_raw": "20:30 - 21:30",
+     "start": "2026-09-23T20:30:00",
+     "end": "2026-09-23T21:30:00",
+     "time_ok": true,
+     "activity": "Remember #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "PLEASE DO NOT ATTEND"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:remember"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|57",
+     "time_raw": "21:00 - 22:00",
+     "start": "2026-09-23T21:00:00",
+     "end": "2026-09-23T22:00:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Fight Call",
+     "location": "DLounge",
+     "staff": [
+      "Decker"
+     ],
+     "cast": [
+      "Primary Avengers who fight"
+     ],
+     "notes": "Costuming techs as needed, Fight Call props brought to DLounge",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
      "id": "Wed 9.23 - REM 4|58",
      "time_raw": "21:15 - 22:00",
      "start": "2026-09-23T21:15:00",
@@ -1379,7 +4306,23 @@
      ],
      "notes": "Canyon Techs as needed",
      "match_reasons": [
-      "dept:dress"
+      "dept:dress",
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Wed 9.23 - REM 4|55",
+     "time_raw": "21:30 - 22:30",
+     "start": "2026-09-23T21:30:00",
+     "end": "2026-09-23T22:30:00",
+     "time_ok": true,
+     "activity": "CHANGEOVER Set for Seas the Adventure",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": "Techs - Preset Table & 2 Mics (hot & ready); For props, scenic, & costume presets, refer to the next day's schedule",
+     "match_reasons": [
+      "show:seas the adventure"
      ]
     },
     {
@@ -1402,7 +4345,8 @@
      ],
      "notes": "Canyon, Show Control, Costuming Techs, Broadcast as needed, Harnesses, Rigging setup prior to\n\nFULL SHOW CONDITIONS - AUDIO, LX, HAZE, VIDEO NEEDED FOR SIGN OFF",
      "match_reasons": [
-      "dept:dress"
+      "dept:dress",
+      "show:avengers"
      ]
     }
    ],
@@ -1431,7 +4375,7 @@
    "date": "2026-09-24",
    "sheet": "Thu 9.24 - STA OPEN",
    "span_start": "2026-09-24T09:15:00",
-   "span_end": "2026-09-24T13:15:00",
+   "span_end": "2026-09-25T02:00:00",
    "calls": [
     {
      "id": "Thu 9.24 - STA OPEN|23",
@@ -1453,7 +4397,9 @@
      ],
      "notes": "Audio, Video Wall In, Keyboard, Music Stand in House",
      "match_reasons": [
-      "dept:zactrack"
+      "dept:zactrack",
+      "show:seas the adventure",
+      "show:moana"
      ]
     },
     {
@@ -1493,7 +4439,8 @@
      "match_reasons": [
       "dept:show lighting",
       "dept:zactrack",
-      "dept:dress"
+      "dept:dress",
+      "show:seas the adventure"
      ]
     },
     {
@@ -1511,6 +4458,144 @@
      "notes": null,
      "match_reasons": [
       "dept:zactrack"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|39",
+     "time_raw": "17:30 - 18:00",
+     "start": "2026-09-24T17:30:00",
+     "end": "2026-09-24T18:00:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #1",
+     "location": "WDT",
+     "staff": [],
+     "cast": [
+      "A1B OPEN"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|40",
+     "time_raw": "18:00 - 18:30",
+     "start": "2026-09-24T18:00:00",
+     "end": "2026-09-24T18:30:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #1",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [
+      "A1B OPEN"
+     ],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|42",
+     "time_raw": "19:00 - 19:30",
+     "start": "2026-09-24T19:00:00",
+     "end": "2026-09-24T19:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #2",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|45",
+     "time_raw": "20:45 - 21:15",
+     "start": "2026-09-24T20:45:00",
+     "end": "2026-09-24T21:15:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #3",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|46",
+     "time_raw": "21:15 - 21:45",
+     "start": "2026-09-24T21:15:00",
+     "end": "2026-09-24T21:45:00",
+     "time_ok": true,
+     "activity": "Baymax Super Exercise Expo #2",
+     "location": "Garden Stage",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:baymax"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|49",
+     "time_raw": "22:00 - 22:30",
+     "start": "2026-09-24T22:00:00",
+     "end": "2026-09-24T22:30:00",
+     "time_ok": true,
+     "activity": "Seas the Adventure (STA) #4",
+     "location": "WDT",
+     "staff": [],
+     "cast": [],
+     "notes": null,
+     "match_reasons": [
+      "show:seas the adventure"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|53",
+     "time_raw": "23:30 - 00:00",
+     "start": "2026-09-24T23:30:00",
+     "end": "2026-09-25T00:00:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Into Harness",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "IES",
+      "Decker",
+      "Liam"
+     ],
+     "cast": [
+      "TBC Names"
+     ],
+     "notes": "Harnesses set up prior to",
+     "match_reasons": [
+      "show:avengers"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|54",
+     "time_raw": "00:00 - 02:00",
+     "start": "2026-09-25T00:00:00",
+     "end": "2026-09-25T02:00:00",
+     "time_ok": true,
+     "activity": "Avengers Assemble Flight Training \n- Out of Costume \n\n-TBD Flying",
+     "location": "Deck 10 Garden Stage",
+     "staff": [
+      "IES",
+      "Decker",
+      "Liam"
+     ],
+     "cast": [
+      "TBC Names",
+      "MADDY NEEDS TO",
+      "No Hanna or Jaylo"
+     ],
+     "notes": "Canyon Techs as needed, Harnesses, Rigging setup prior to",
+     "match_reasons": [
+      "show:avengers"
      ]
     }
    ],
