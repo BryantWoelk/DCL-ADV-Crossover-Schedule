@@ -2,8 +2,8 @@
  "meta": {
   "updated": "September 9, 2026",
   "version": 5,
-  "source_file": "A1B Handover Schedule V6.xlsx",
-  "generated_at": "2026-09-10T01:55:00.183545Z",
+  "source_file": "A1B Handover Schedule V7.xlsx",
+  "generated_at": "2026-09-10T07:09:17.575329Z",
   "name_match": "Bryant",
   "dept_tokens": [
    "show lighting",
@@ -205,7 +205,7 @@
       "Gabby",
       "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
      ],
-     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "notes": "(1) Cast in day time Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests\n(4) No Phones",
      "match_reasons": [
       "show:moana"
      ]
@@ -312,7 +312,7 @@
       "Daniel",
       "DO NOT ATTEND UNLESS YOUR NAME IS ABOVE"
      ],
-     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests",
+     "notes": "(1) Cast in evening Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests\n(4) No Phones",
      "match_reasons": [
       "show:color spin"
      ]
