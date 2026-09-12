@@ -1,6 +1,6 @@
 // Bump BUILD_ID on every rebuild so the browser detects a byte-diff in this file
 // and runs the standard service-worker update flow (install -> waiting -> banner).
-const BUILD_ID = 'v5-2026-09-09T00-00-00-r2';
+const BUILD_ID = 'v5-2026-09-09T00-00-00-r3';
 const CACHE_NAME = 'a1b-lighting-' + BUILD_ID;
 
 const PRECACHE_URLS = [

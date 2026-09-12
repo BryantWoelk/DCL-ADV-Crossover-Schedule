@@ -3,7 +3,7 @@
   "updated": "September 9, 2026",
   "version": 5,
   "source_file": "A1B Handover Schedule V7.xlsx",
-  "generated_at": "2026-09-10T07:09:17.575329Z",
+  "generated_at": "2026-09-12T00:32:19.207230Z",
   "name_match": "Bryant",
   "dept_tokens": [
    "show lighting",
@@ -20,7 +20,8 @@
    "baymax",
    "color spin",
    "guest drill",
-   "announcements & guest safety drill"
+   "announcements & guest safety drill",
+   "production meeting"
   ],
   "notes": "Excluded 6 stale date(s) whose only tabs were behind the current version (v5): 2026-09-25, 2026-09-26, 2026-09-27, 2026-09-28, 2026-09-29, 2026-09-30. For 2026-09-19, used \"Sat 9.19 - REM 1\" over ['Sat Sep 19'] (same date, lower version or fewer rows). For 2026-09-20, used \"Sun 9.20 - REM 2\" over ['Sun Sep 20'] (same date, lower version or fewer rows). For 2026-09-21, used \"Mon 9.21 - STA 2\" over ['Mon Sep 21'] (same date, lower version or fewer rows). For 2026-09-22, used \"Tue 9.22 - REM 3\" over ['Tue Sep 22'] (same date, lower version or fewer rows). For 2026-09-23, used \"Wed 9.23 - REM 4\" over ['Wed Sep 23'] (same date, lower version or fewer rows). For 2026-09-24, used \"Thu 9.24 - STA OPEN\" over ['Thu Sep 24 OPEN'] (same date, lower version or fewer rows). For 2026-09-18, used \"Fri 9.18 - STA 1\" over ['Fri 9.18 - STA 1 NEW'] (same date, lower version or fewer rows). \"Thu 9.24 - STA OPEN\" internal date field said 2026-09-17; used 2026-09-24 instead, based on the tab name/sequence. Show-name matches include every activity for those shows, including live guest performances (marked \"PLEASE DO NOT ATTEND\" in the sheet) alongside rehearsals."
  },
@@ -69,6 +70,24 @@
      "notes": "A1B in Disney Look with NO name tage and NO life jacket - please blend in.",
      "match_reasons": [
       "show:announcements & guest safety drill"
+     ]
+    },
+    {
+     "id": "(R) Thu 9.10 EMBARK - STA|33",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-10T16:30:00",
+     "end": "2026-09-10T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
      ]
     },
     {
@@ -276,6 +295,24 @@
      ]
     },
     {
+     "id": "(R) Fri 9.11 - Movie|33",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-11T16:30:00",
+     "end": "2026-09-11T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
+     ]
+    },
+    {
      "id": "(R) Fri 9.11 - Movie|40",
      "time_raw": "18:15 - 18:45",
      "start": "2026-09-11T18:15:00",
@@ -469,6 +506,24 @@
      ]
     },
     {
+     "id": "(R) Sat 9.12 - Nil|34",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-12T16:30:00",
+     "end": "2026-09-12T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
+     ]
+    },
+    {
      "id": "(R) Sat 9.12 - Nil|38",
      "time_raw": "18:00 - 18:30",
      "start": "2026-09-12T18:00:00",
@@ -639,6 +694,24 @@
      "notes": "A1B Cast Viewing\n*Meet at the theatre entrance as a group, then enter together and remain at the back of the theatre.\n\n(1) Cast in Disney Look\n(2) No name tag but crew ID showing\n(3) Blend with the guests\n\n\nA1B Cast Backstage Shadow\n**Meet outside SM office 20 mins before show\n**Come in FULL BLACK",
      "match_reasons": [
       "show:remember"
+     ]
+    },
+    {
+     "id": "(R) Sun 9.13 - REM|30",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-13T16:30:00",
+     "end": "2026-09-13T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
      ]
     },
     {
@@ -897,6 +970,24 @@
      ]
     },
     {
+     "id": "(R) Mon 9.14 - STA|37",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-14T16:30:00",
+     "end": "2026-09-14T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Left",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
+     ]
+    },
+    {
      "id": "(R) Mon 9.14 - STA|41",
      "time_raw": "17:30 - 18:00",
      "start": "2026-09-14T17:30:00",
@@ -1149,6 +1240,24 @@
      ]
     },
     {
+     "id": "(R) Tue 9.15 - REM|31",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-15T16:30:00",
+     "end": "2026-09-15T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
+     ]
+    },
+    {
      "id": "(R) Tue 9.15 - REM|36",
      "time_raw": "17:00",
      "start": "2026-09-15T17:00:00",
@@ -1322,6 +1431,24 @@
      ]
     },
     {
+     "id": "(R) Wed 9.16 - REM|28",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-16T16:30:00",
+     "end": "2026-09-16T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Left",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
+     ]
+    },
+    {
      "id": "(R) Wed 9.16 - REM|32",
      "time_raw": "18:00 - 19:00",
      "start": "2026-09-16T18:00:00",
@@ -1469,6 +1596,24 @@
      "notes": "A1B in Disney Look with NO name tage and NO life jacket - please blend in.",
      "match_reasons": [
       "show:announcements & guest safety drill"
+     ]
+    },
+    {
+     "id": "Thu 9.17 EMBARK |37",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-17T16:30:00",
+     "end": "2026-09-17T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
      ]
     },
     {
@@ -1856,6 +2001,24 @@
      "notes": "Greeters as needed",
      "match_reasons": [
       "show:baymax"
+     ]
+    },
+    {
+     "id": "Fri 9.18 - STA 1|49",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-18T16:30:00",
+     "end": "2026-09-18T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting\n(overllap sound sound)",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
      ]
     },
     {
@@ -2328,6 +2491,24 @@
      "match_reasons": [
       "dept:zactrack",
       "dept:dress"
+     ]
+    },
+    {
+     "id": "Sat 9.19 - REM 1|57",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-19T16:30:00",
+     "end": "2026-09-19T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
      ]
     },
     {
@@ -2877,6 +3058,24 @@
      ]
     },
     {
+     "id": "Sun 9.20 - REM 2|55",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-20T16:30:00",
+     "end": "2026-09-20T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
+     ]
+    },
+    {
      "id": "Sun 9.20 - REM 2|59",
      "time_raw": "17:00",
      "start": "2026-09-20T17:00:00",
@@ -3348,6 +3547,24 @@
      ]
     },
     {
+     "id": "Mon 9.21 - STA 2|49",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-21T16:30:00",
+     "end": "2026-09-21T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Left",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
+     ]
+    },
+    {
      "id": "Mon 9.21 - STA 2|51",
      "time_raw": "17:00 - 18:00",
      "start": "2026-09-21T17:00:00",
@@ -3721,6 +3938,24 @@
      "notes": "Techs as needed, All below preset prior to - \nPreset Auto 69, S/B Auto 70 - 72\nAustrian: IN at start (swag) (Auto 67)\nWagon: Green Home (Auto 69)\nAudio: Timecode (2:39:50) Top of Let It Go Playoff\nProps: Snow Paper",
      "match_reasons": [
       "show:remember"
+     ]
+    },
+    {
+     "id": "Tue 9.22 - REM 3|28",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-22T16:30:00",
+     "end": "2026-09-22T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
      ]
     },
     {
@@ -4243,6 +4478,24 @@
      ]
     },
     {
+     "id": "Wed 9.23 - REM 4|44",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-23T16:30:00",
+     "end": "2026-09-23T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Left",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
+     ]
+    },
+    {
      "id": "Wed 9.23 - REM 4|49",
      "time_raw": "18:00 - 18:45",
      "start": "2026-09-23T18:00:00",
@@ -4514,6 +4767,24 @@
      "notes": "A1B in Disney Look with NO name tage and NO life jacket - please blend in.",
      "match_reasons": [
       "show:announcements & guest safety drill"
+     ]
+    },
+    {
+     "id": "Thu 9.24 - STA OPEN|36",
+     "time_raw": "16:30 - 17:00",
+     "start": "2026-09-24T16:30:00",
+     "end": "2026-09-24T17:00:00",
+     "time_ok": true,
+     "activity": "Production Meeting",
+     "location": "WDT Back of House Right",
+     "staff": [
+      "MET to lead",
+      "Production & Creative Teams"
+     ],
+     "cast": [],
+     "notes": "Crossover Techs, ALL Sr Techs, SM, CM, CPM",
+     "match_reasons": [
+      "show:production meeting"
      ]
     },
     {
