@@ -1,9 +1,9 @@
 {
  "meta": {
   "updated": "September 9, 2026",
-  "version": 5,
-  "source_file": "A1B Handover Schedule V7.xlsx",
-  "generated_at": "2026-09-12T00:32:19.207230Z",
+  "version": 14,
+  "source_file": "A1B Handover Schedule V14.xlsx (2026-09-14 only) + V7.xlsx (all other days)",
+  "generated_at": "2026-09-13T10:18:48.173323Z",
   "name_match": "Bryant",
   "dept_tokens": [
    "show lighting",
@@ -23,7 +23,7 @@
    "announcements & guest safety drill",
    "production meeting"
   ],
-  "notes": "Excluded 6 stale date(s) whose only tabs were behind the current version (v5): 2026-09-25, 2026-09-26, 2026-09-27, 2026-09-28, 2026-09-29, 2026-09-30. For 2026-09-19, used \"Sat 9.19 - REM 1\" over ['Sat Sep 19'] (same date, lower version or fewer rows). For 2026-09-20, used \"Sun 9.20 - REM 2\" over ['Sun Sep 20'] (same date, lower version or fewer rows). For 2026-09-21, used \"Mon 9.21 - STA 2\" over ['Mon Sep 21'] (same date, lower version or fewer rows). For 2026-09-22, used \"Tue 9.22 - REM 3\" over ['Tue Sep 22'] (same date, lower version or fewer rows). For 2026-09-23, used \"Wed 9.23 - REM 4\" over ['Wed Sep 23'] (same date, lower version or fewer rows). For 2026-09-24, used \"Thu 9.24 - STA OPEN\" over ['Thu Sep 24 OPEN'] (same date, lower version or fewer rows). For 2026-09-18, used \"Fri 9.18 - STA 1\" over ['Fri 9.18 - STA 1 NEW'] (same date, lower version or fewer rows). \"Thu 9.24 - STA OPEN\" internal date field said 2026-09-17; used 2026-09-24 instead, based on the tab name/sequence. Show-name matches include every activity for those shows, including live guest performances (marked \"PLEASE DO NOT ATTEND\" in the sheet) alongside rehearsals."
+  "notes": "Scoped update: only the \"(R) Mon 9.14 - STA\" tab (2026-09-14) was refreshed, from A1B Handover Schedule V14.xlsx, per request. All other days are unchanged from the prior build (A1B Handover Schedule V7.xlsx). Note: that same source file also contains newer revisions for 2026-09-12 (v10) and 2026-09-13 (v12) that were intentionally NOT applied this time -- say the word if you want those pulled in too. Excluded 6 stale date(s) whose only tabs were behind the current version (v5): 2026-09-25, 2026-09-26, 2026-09-27, 2026-09-28, 2026-09-29, 2026-09-30. For 2026-09-19, used \"Sat 9.19 - REM 1\" over ['Sat Sep 19'] (same date, lower version or fewer rows). For 2026-09-20, used \"Sun 9.20 - REM 2\" over ['Sun Sep 20'] (same date, lower version or fewer rows). For 2026-09-21, used \"Mon 9.21 - STA 2\" over ['Mon Sep 21'] (same date, lower version or fewer rows). For 2026-09-22, used \"Tue 9.22 - REM 3\" over ['Tue Sep 22'] (same date, lower version or fewer rows). For 2026-09-23, used \"Wed 9.23 - REM 4\" over ['Wed Sep 23'] (same date, lower version or fewer rows). For 2026-09-24, used \"Thu 9.24 - STA OPEN\" over ['Thu Sep 24 OPEN'] (same date, lower version or fewer rows). For 2026-09-18, used \"Fri 9.18 - STA 1\" over ['Fri 9.18 - STA 1 NEW'] (same date, lower version or fewer rows). \"Thu 9.24 - STA OPEN\" internal date field said 2026-09-17; used 2026-09-24 instead, based on the tab name/sequence. Show-name matches include every activity for those shows, including live guest performances (marked \"PLEASE DO NOT ATTEND\" in the sheet) alongside rehearsals."
  },
  "days": [
   {
@@ -199,7 +199,9 @@
      "start": "2026-09-10T16:30:00",
      "end": "2026-09-10T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-11",
@@ -383,7 +385,9 @@
      "start": "2026-09-11T16:30:00",
      "end": "2026-09-11T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-12",
@@ -612,7 +616,9 @@
      "start": "2026-09-12T16:30:00",
      "end": "2026-09-12T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-13",
@@ -832,28 +838,32 @@
      "start": "2026-09-13T16:30:00",
      "end": "2026-09-13T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-14",
    "sheet": "(R) Mon 9.14 - STA",
-   "span_start": "2026-09-14T07:00:00",
+   "updated": "September 9, 2026",
+   "version": 14,
+   "span_start": "2026-09-14T07:45:00",
    "span_end": "2026-09-14T23:45:00",
    "calls": [
     {
-     "id": "(R) Mon 9.14 - STA|13",
-     "time_raw": "7:00 - 7:45",
-     "start": "2026-09-14T07:00:00",
-     "end": "2026-09-14T07:45:00",
+     "id": "(R) Mon 9.14 - STA|12",
+     "time_raw": "7:45 - 8:15",
+     "start": "2026-09-14T07:45:00",
+     "end": "2026-09-14T08:15:00",
      "time_ok": true,
      "activity": "Color Spin Block Through",
      "location": "Garden Stage",
      "staff": [
-      "Liam",
-      "Hayley",
+      "Haley",
       "Tony",
       "Sarah",
-      "Daniel"
+      "Daniel",
+      "Liam"
      ],
      "cast": [
       "Gabby",
@@ -863,35 +873,13 @@
       "Hanna",
       "Sam"
      ],
-     "notes": "Silent DJ/ IEMs System Set Up\n\n-CHM1/CPM1 confirm A2 Captains",
+     "notes": "Silent DJ/ IEMs System Set Up, No techs needed\n\n-CHM1/CPM1 confirm A2 Captains",
      "match_reasons": [
       "show:color spin"
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|14",
-     "time_raw": "7:45 - 8:15",
-     "start": "2026-09-14T07:45:00",
-     "end": "2026-09-14T08:15:00",
-     "time_ok": true,
-     "activity": "Baymax Block Through",
-     "location": "Garden Stage",
-     "staff": [
-      "Ashi",
-      "Sarah",
-      "Tony"
-     ],
-     "cast": [
-      "Samm",
-      "Justin"
-     ],
-     "notes": "Silent DJ/ IEMs System Set Up, No scenic needed\n\n-CHM1/CPM1 confirm A2 Captains",
-     "match_reasons": [
-      "show:baymax"
-     ]
-    },
-    {
-     "id": "(R) Mon 9.14 - STA|17",
+     "id": "(R) Mon 9.14 - STA|16",
      "time_raw": "8:30 - 9:15",
      "start": "2026-09-14T08:30:00",
      "end": "2026-09-14T09:15:00",
@@ -900,7 +888,7 @@
      "location": "Garden Stage",
      "staff": [
       "Ashi",
-      "Hayley",
+      "Haley",
       "Kami",
       "Liam to join after boarding as vendor"
      ],
@@ -916,9 +904,48 @@
       "Hanna",
       "Justin"
      ],
-     "notes": "Silent DJ/ IEMs System Set Up, No scenic needed\n\n-CHM1/CPM1 confirm A2 Captains",
+     "notes": "Silent DJ/ IEMs System Set Up, No scenic needed, no techs needed\n\n-CPM1 confirm A2 Captains",
      "match_reasons": [
       "show:avengers"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|17",
+     "time_raw": "8:30 - 9:00",
+     "start": "2026-09-14T08:30:00",
+     "end": "2026-09-14T09:00:00",
+     "time_ok": true,
+     "activity": "Sydney into Costume",
+     "location": "WDT Dressing Room",
+     "staff": [],
+     "cast": [
+      "Syd"
+     ],
+     "notes": "Into Elsa dress and show shoes",
+     "match_reasons": [
+      "dept:dress"
+     ]
+    },
+    {
+     "id": "(R) Mon 9.14 - STA|19",
+     "time_raw": "9:00 - 10:00",
+     "start": "2026-09-14T09:00:00",
+     "end": "2026-09-14T10:00:00",
+     "time_ok": true,
+     "activity": "Heroine Medley\nWalk thru the number\n(layered in costume in the next session if time allows / when costume is ready)\n\n- NO Flight\n- YES Costume (Elsa)\n- YES Staircase \n- YES Mod\n- YES Fog Pocket (if have - only to raise above stage level)",
+     "location": "WDT",
+     "staff": [
+      "Joey",
+      "Sheikha (SM to call automations)",
+      "Joey & Sheikha to confirm the time to run automation one day prior"
+     ],
+     "cast": [
+      "Sydney (Elsa)",
+      "Grace (u/s Moana)"
+     ],
+     "notes": "Techs as needed, All below preset as show prior to - \nS/B Auto 6 - 11, Stairs Knifed\nMOD: Down at start with Elsa\nFog Pocket (only to raise above stage level, no fog)\nAudio: Timecode (1:20:20) \"Hi there, friends. This is your ol' pal Goofy\"\nSet: STA Portal, Stairs x 2\nWardrobe: Show Shoes, Elsa Dress",
+     "match_reasons": [
+      "dept:dress"
      ]
     },
     {
@@ -945,13 +972,13 @@
       "Elana",
       "Hanna"
      ],
-     "notes": "Silent DJ/ IEMs System Set Up, Avengers Props as needed (listed below) \n\n- Loki Scepter \n- Black Widow Batons\n- Thor Hammer \n- Deadpool Swords\n- 1 x Hydra Blaster (No pyro loaded)\n- Task Force Batons\n- 2 x Task Force Blasters (No pyro loaded)\n\n-CPM1 confirm A2 Captains",
+     "notes": "Silent DJ/ IEMs System Set Up, Avengers Props as needed (listed below), no techs needed\n\n- Loki Scepter \n- Black Widow Batons\n- Thor Hammer \n- Deadpool Swords\n- 1 x Hydra Blaster (No pyro loaded)\n- Task Force Batons\n- 2 x Task Force Blasters (No pyro loaded)\n\n-CPM1 confirm A2 Captains",
      "match_reasons": [
       "show:avengers"
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|34",
+     "id": "(R) Mon 9.14 - STA|36",
      "time_raw": "15:30 - 16:30",
      "start": "2026-09-14T15:30:00",
      "end": "2026-09-14T16:30:00",
@@ -970,13 +997,13 @@
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|37",
+     "id": "(R) Mon 9.14 - STA|39",
      "time_raw": "16:30 - 17:00",
      "start": "2026-09-14T16:30:00",
      "end": "2026-09-14T17:00:00",
      "time_ok": true,
      "activity": "Production Meeting",
-     "location": "WDT Back of House Left",
+     "location": "WDT Back of House Right",
      "staff": [
       "MET to lead",
       "Production & Creative Teams"
@@ -988,7 +1015,7 @@
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|41",
+     "id": "(R) Mon 9.14 - STA|43",
      "time_raw": "17:30 - 18:00",
      "start": "2026-09-14T17:30:00",
      "end": "2026-09-14T18:00:00",
@@ -997,18 +1024,15 @@
      "location": "WDT",
      "staff": [],
      "cast": [
-      "A1B Cast Backstage Shadow",
-      "Michael O",
-      "Jabriel",
-      "Samm"
+      "PLEASE DO NOT ATTEND"
      ],
-     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK",
+     "notes": null,
      "match_reasons": [
       "show:seas the adventure"
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|42",
+     "id": "(R) Mon 9.14 - STA|44",
      "time_raw": "18:00 - 18:30",
      "start": "2026-09-14T18:00:00",
      "end": "2026-09-14T18:30:00",
@@ -1025,7 +1049,7 @@
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|44",
+     "id": "(R) Mon 9.14 - STA|46",
      "time_raw": "19:00 - 19:30",
      "start": "2026-09-14T19:00:00",
      "end": "2026-09-14T19:30:00",
@@ -1045,7 +1069,7 @@
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|47",
+     "id": "(R) Mon 9.14 - STA|49",
      "time_raw": "20:45 - 21:15",
      "start": "2026-09-14T20:45:00",
      "end": "2026-09-14T21:15:00",
@@ -1062,7 +1086,7 @@
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|48",
+     "id": "(R) Mon 9.14 - STA|50",
      "time_raw": "21:15 - 21:45",
      "start": "2026-09-14T21:15:00",
      "end": "2026-09-14T21:45:00",
@@ -1079,7 +1103,7 @@
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|54",
+     "id": "(R) Mon 9.14 - STA|53",
      "time_raw": "22:00 - 22:30",
      "start": "2026-09-14T22:00:00",
      "end": "2026-09-14T22:30:00",
@@ -1088,15 +1112,18 @@
      "location": "WDT",
      "staff": [],
      "cast": [
-      "PLEASE DO NOT ATTEND"
+      "A1B Cast Backstage Shadow",
+      "Michael O",
+      "Jabriel",
+      "Samm"
      ],
-     "notes": null,
+     "notes": "A1B Cast Backstage Shadow\n\n(1) Meet outside SM office 20 mins before show\n(2) Come in FULL BLACK",
      "match_reasons": [
       "show:seas the adventure"
      ]
     },
     {
-     "id": "(R) Mon 9.14 - STA|55",
+     "id": "(R) Mon 9.14 - STA|54",
      "time_raw": "22:45 - 23:45",
      "start": "2026-09-14T22:45:00",
      "end": "2026-09-14T23:45:00",
@@ -1113,10 +1140,10 @@
    ],
    "meals": [
     {
-     "time_raw": "13:15 - 14:15",
+     "time_raw": "12:15 - 13:15",
      "label": "LUNCH (WDT CAST)",
-     "start": "2026-09-14T13:15:00",
-     "end": "2026-09-14T14:15:00"
+     "start": "2026-09-14T12:15:00",
+     "end": "2026-09-14T13:15:00"
     },
     {
      "time_raw": "16:30 - 20:30",
@@ -1354,7 +1381,9 @@
      "start": "2026-09-15T16:30:00",
      "end": "2026-09-15T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-16",
@@ -1551,7 +1580,9 @@
      "start": "2026-09-16T16:30:00",
      "end": "2026-09-16T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-17",
@@ -1897,7 +1928,9 @@
      "start": "2026-09-17T16:30:00",
      "end": "2026-09-17T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-18",
@@ -2197,7 +2230,9 @@
      "start": "2026-09-18T16:30:00",
      "end": "2026-09-18T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-19",
@@ -2693,7 +2728,9 @@
      "start": "2026-09-19T16:30:00",
      "end": "2026-09-19T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-20",
@@ -3226,7 +3263,9 @@
      "start": "2026-09-20T16:30:00",
      "end": "2026-09-20T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-21",
@@ -3806,7 +3845,9 @@
      "start": "2026-09-21T16:30:00",
      "end": "2026-09-21T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-22",
@@ -4116,7 +4157,9 @@
      "start": "2026-09-22T16:30:00",
      "end": "2026-09-22T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-23",
@@ -4661,7 +4704,9 @@
      "start": "2026-09-23T16:30:00",
      "end": "2026-09-23T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   },
   {
    "date": "2026-09-24",
@@ -4939,7 +4984,9 @@
      "start": "2026-09-24T16:30:00",
      "end": "2026-09-24T20:30:00"
     }
-   ]
+   ],
+   "updated": "September 9, 2026",
+   "version": 5
   }
  ]
 }
